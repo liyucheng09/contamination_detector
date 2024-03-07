@@ -1,0 +1,1171 @@
+{
+  "dataset_name": "mmlu",
+  "matches": [
+    [
+      {
+        "query": "Which of the following statements is correct? Business Ethics is the study of business situations, activities and decisions where issues of right and wrong are addressed.",
+        "match_string": "Business ethics is the study of business situations activities and decisions where issues of right and wrong are addressed ethics of business ethics business of Business Ethics",
+        "score": 0.7341826923076924,
+        "score_label": 1.0,
+        "name": "<b>Business Ethics: Meaning, Definition, Nature, Importance</b> - theintactone",
+        "url": "https://theintactone.com/2019/03/13/cgve-u4-topic-1-business-ethics-meaning-definition-nature-importance/",
+        "snippet": "According to Crane, “<b>Business</b> <b>ethics</b> <b>is the study</b> <b>of business</b> <b>situations</b>, <b>activities</b>, <b>and decisions</b> <b>where issues</b> <b>of right</b> <b>and wrong</b> <b>are addressed</b>.” Baumhart defines, “The <b>ethics</b> <b>of business</b> is the <b>ethics</b> of responsibility. The <b>business</b> man must promise that he will not harm knowingly.” Features <b>of Business</b> <b>Ethics</b>"
+      }
+    ],
+    [
+      {
+        "query": " According to Mill, the only evidence it is possible to produce that anything is desirable is that people do actually desire it.",
+        "match_string": "The only is that people actually The only is that people evidence it is possible to produce that anything is desirable is that people do actually desire",
+        "score": 0.8136924803591469,
+        "score_label": 1.0,
+        "name": "&quot;<b>On Virtue and Happiness</b>,&quot; by John Stuart <b>Mill</b> - ThoughtCo",
+        "url": "https://www.thoughtco.com/virtue-and-happiness-john-stuart-mill-1690300",
+        "snippet": "<b>The only</b> proof capable of being given that an object is visible, <b>is that people</b> <b>actually</b> see it. <b>The only</b> proof that a sound is audible, <b>is that people</b> hear it; and so of the other sources of our experience. In like manner, I apprehend, the sole <b>evidence</b> <b>it is possible</b> <b>to produce</b> <b>that anything</b> <b>is desirable</b>, <b>is that people</b> <b>do</b> <b>actually</b> <b>desire</b> it."
+      }
+    ],
+    [
+      {
+        "query": "Bentham defines the fecundity of a pleasure or pain as: its chance of being followed by sensations of the same kind.",
+        "match_string": "Bentham defines the fecundity of a pleasure or pain Its chance Its chance of being followed by sensations of the same kind",
+        "score": 0.9519047619047619,
+        "score_label": 1.0,
+        "name": "<b>Political Science MCQs | John Stuart Mill, Jeremy Bentham</b> - CSS Times",
+        "url": "https://www.csstimes.pk/political-science-mcqs-john-stuart-mill-jeremy-bentham/",
+        "snippet": "Answer: (a) <b>Bentham</b> <b>defines</b> <b>the fecundity</b> <b>of a pleasure</b> <b>or pain</b> as: (a) <b>Its</b> <b>chance</b> of occurring. (b) The degree to which it is felt. (c) <b>Its</b> <b>chance</b> <b>of being</b> <b>followed</b> <b>by sensations</b> <b>of the same</b> <b>kind</b>. (d) How long it lasts. Answer: (c) “Principle of Utility” as a method was the idea of: (a) James Mill."
+      }
+    ],
+    [
+      {
+        "query": "According to Hume, reason: should serve our passions.",
+        "match_string": "According to Hume reason passion should our passions",
+        "score": 0.840561224489796,
+        "score_label": 0.75,
+        "name": "The Motivation Argument. One of <b>Hume</b>’s strongest arguments is… | by ...",
+        "url": "https://nataliesfelicities.medium.com/the-motivation-argument-61cc9bd42de4",
+        "snippet": "<b>According</b> <b>to Hume</b>, <b>reason</b> comes from knowledge, and knowledge only motivates us if it stems from prior experience, thus from <b>passion</b>. He states that morality <b>should</b> influence <b>our</b> <b>passions</b>, which go “beyond the calm and indolent judgments of the understanding.” A rationalist, such as Aristotle or Plato, would disagree because in order to be ..."
+      }
+    ],
+    [
+      {
+        "query": "According to Locke, every man, by consenting with others to make one body politic under one government, puts himself under an obligation to everyone of that society to submit to the determination ofthe majority.",
+        "match_string": "Locke everyone every man by consenting with others to make one body politic under one government puts himself under an obligation to everyone of that society to submit to the determination majority",
+        "score": 0.9113515333292526,
+        "score_label": 1.0,
+        "name": "<b>The State (Liberalism</b>) | Politics | <b>tutor2u</b>",
+        "url": "https://www.tutor2u.net/politics/reference/the-state-liberalism-1",
+        "snippet": "John <b>Locke</b> depicted the social contract as binding on <b>everyone</b>. He added that “<b>every</b> <b>man</b>, <b>by consenting</b> <b>with others</b> <b>to make</b> <b>one</b> <b>body</b> <b>politic</b> <b>under</b> <b>one</b> <b>government</b>, <b>puts</b> <b>himself</b> <b>under</b> <b>an obligation</b> <b>to everyone</b> <b>of that society</b> <b>to submit</b> <b>to the determination</b> of the <b>majority</b>.”"
+      },
+      {
+        "query": "According to Locke, every man, by consenting with others to make one body politic under one government, puts himself under an obligation to everyone of that society to submit to the determination ofthe majority.",
+        "match_string": "according to Locke every man by consenting with others to make one body politic puts himself under an obligation to everyone of that society to submit",
+        "score": 0.7271145144448311,
+        "score_label": 0.0,
+        "name": "Opinion: Want to be a patriot? Wear a mask! - The Atlanta Journal ...",
+        "url": "https://www.ajc.com/news/opinion/opinion-want-patriot-wear-mask/ZKItEtELdydUynvzvSnjYI/",
+        "snippet": "Thus, <b>according</b> <b>to Locke</b>, “<b>every</b> <b>man</b>, <b>by consenting</b> <b>with others</b> <b>to make</b> <b>one</b> <b>body</b> <b>politic</b> … <b>puts</b> <b>himself</b> <b>under</b> <b>an obligation</b> <b>to everyone</b> <b>of that society</b> <b>to submit</b>..."
+      }
+    ],
+    [
+      {
+        "query": "The four main divisions of philosophy are metaphysics, epistemology, axiology, and logic.",
+        "match_string": "The four main branches of philosophy are metaphysics epistemology axiology and logic the four the four of philosophy the four",
+        "score": 0.8946280991735536,
+        "score_label": 1.0,
+        "name": "What is the key component <b>of philosophy</b>? - Studybuff.com",
+        "url": "https://studybuff.com/what-is-the-key-component-of-philosophy/",
+        "snippet": "<b>The four</b> <b>main</b> <b>branches</b> <b>of philosophy</b> <b>are metaphysics</b>, <b>epistemology</b>, <b>axiology</b>, <b>and logic</b>. What are <b>the four</b> types of philosophical claims in order? inductive. deductive. critical and poetic. descriptive. What are <b>the four</b> philosophical claims associated with the value <b>of philosophy</b>? What are <b>the four</b> philosophical claims?"
+      },
+      {
+        "query": "The four main divisions of philosophy are metaphysics, epistemology, axiology, and logic.",
+        "match_string": "The four main branches of philosophy are metaphysics epistemology axiology and logic Metaphysics of philosophy Epistemology of philosophy major metaphysics",
+        "score": 0.8422865013774103,
+        "score_label": 1.0,
+        "name": "What is <b>metaphysics</b> <b>epistemology</b> and ethics? - Studybuff.com",
+        "url": "https://studybuff.com/what-is-metaphysics-epistemology-and-ethics/",
+        "snippet": "<b>The four</b> <b>main</b> <b>branches</b> <b>of philosophy</b> <b>are metaphysics</b>, <b>epistemology</b>, <b>axiology</b>, <b>and logic</b>. <b>Metaphysics</b> is the branch <b>of philosophy</b> that considers the physical universe and the nature of ultimate reality. … <b>Epistemology</b> is the branch <b>of philosophy</b> that considers how people come to learn what they know. What are the 3 <b>major</b> categories of <b>metaphysics</b>?"
+      },
+      {
+        "query": "The four main divisions of philosophy are metaphysics, epistemology, axiology, and logic.",
+        "match_string": "The four main branches of philosophy are metaphysics epistemology axiology and logic major philosophy major branches of philosophy metaphysics epistemology logic philosophy",
+        "score": 0.7985537190082644,
+        "score_label": 1.0,
+        "name": "What are the 6 disciplines <b>of philosophy</b>? - Studybuff.com",
+        "url": "https://studybuff.com/what-are-the-6-disciplines-of-philosophy/",
+        "snippet": "<b>The four</b> <b>main</b> <b>branches</b> <b>of philosophy</b> <b>are metaphysics</b>, <b>epistemology</b>, <b>axiology</b>, <b>and logic</b>. What are the <b>major</b> discipline in <b>philosophy</b>? The <b>major</b> <b>branches</b> <b>of philosophy</b> include <b>metaphysics</b> (the study of reality), <b>epistemology</b> (the study of knowledge), <b>logic</b>, ethics, and social and political <b>philosophy</b>."
+      }
+    ],
+    [
+      {
+        "query": "Why should a successful public relations counselor continually review present and future realities for an organization? to interpret trends for management",
+        "match_string": "management organization Why should a successful public relations counselor continually review present and future realities for an organization? - to interpret trends for management",
+        "score": 0.9995680812007343,
+        "score_label": 1.0,
+        "name": "APR Accredited In <b>Public</b> <b>Relations</b> Practice - EverythingIsPlural",
+        "url": "https://www.everythingisplural.com/single-post/2017/05/24/APR-Accredited-In-Public-Relations-Practice",
+        "snippet": "1. In issues <b>management</b>, what is the most proactive approach to addressing negative or misleading information posted online about your <b>organization</b>? - Make policy changes to address complaints highlighted on these sites. 2. <b>Why should a successful public relations counselor continually review present and future realities for an organization? - to interpret trends for management</b> 3. Which two ..."
+      }
+    ],
+    [
+      {
+        "query": "The egg can be fertilized until about 24 hours after ovulation.",
+        "match_string": "egg 24 hours after ovulation can be fertilized fertilized the egg can",
+        "score": 0.782267115600449,
+        "score_label": 1.0,
+        "name": "<b>Implantation Calculator</b>: When It Happened or Will Occur - <b>Healthline</b>",
+        "url": "https://www.healthline.com/health/pregnancy/implantation-calculator",
+        "snippet": "A mature <b>egg</b> only has a window of about 12 to <b>24</b> <b>hours</b> <b>after</b> its release (<b>ovulation</b>) when it <b>can</b> <b>be fertilized</b>. Once it’s <b>fertilized</b>, <b>the egg</b>’s journey down the Fallopian tubes <b>can</b> take ..."
+      }
+    ],
+    [
+      {
+        "query": "Corbet Co. purchased a copyright near the beginning of the current year from an author for $20000. The legal life of the copyright is equivalent to the life of the author plus 50 years. Corbet expects to sell the book for five years. What amount should Corbet report as amortization expense related to the copyright at the end of the current year? 4000",
+        "match_string": "Corbet Co. purchased a copyright near the beginning of the current year from an author for $20,000 The legal life of the copyright is equivalent to the life of the author plus 50 years Corbet expects to sell the book years What amount should Corbet report as amortization expense related to the copyright at the end of the current year",
+        "score": 0.9372287326388888,
+        "score_label": 0.0,
+        "name": "<b>Corbet Co. purchased a copyright near the beginning of the current</b> <b>year</b> ...",
+        "url": "https://chencpa.blogspot.com/2020/08/corbet-co-purchased-copyright-near.html",
+        "snippet": "<b>Corbet Co. purchased a copyright near the beginning of the current</b> <b>year</b> <b>from an author</b> <b>for $20,000</b>. <b>The legal</b> <b>life</b> <b>of the copyright</b> <b>is equivalent</b> <b>to the life</b> <b>of the author</b> <b>plus</b> <b>50</b> <b>years</b>. <b>Corbet</b> <b>expects</b> <b>to sell</b> <b>the book</b> for 5 <b>years</b>. <b>What amount</b> <b>should</b> <b>Corbet</b> <b>report</b> <b>as amortization</b> <b>expense</b> <b>related</b> <b>to the copyright</b> <b>at the end</b> <b>of the current</b> <b>year</b> ..."
+      },
+      {
+        "query": "Corbet Co. purchased a copyright near the beginning of the current year from an author for $20000. The legal life of the copyright is equivalent to the life of the author plus 50 years. Corbet expects to sell the book for five years. What amount should Corbet report as amortization expense related to the copyright at the end of the current year? 4000",
+        "match_string": "Corbet Co purchased a copyright near the beginning of the current year from an author for $20,000 The legal life of the copyright is equivalent to the life of the author plus 50 years Corbet expects to sell the book years What amount should Corbet report as amortization expense related to the copyright at the end of the current year",
+        "score": 0.921390225509911,
+        "score_label": 0.0,
+        "name": "<b>Chen CPA</b>: August 2020 - Blogger",
+        "url": "https://chencpa.blogspot.com/2020/08/",
+        "snippet": "<b>Corbet</b> <b>Co</b>. <b>purchased</b> <b>a copyright</b> <b>near</b> <b>the beginning</b> <b>of the current</b> <b>year</b> <b>from an author</b> <b>for $20,000</b>. <b>The legal</b> <b>life</b> <b>of the copyright</b> <b>is equivalent</b> <b>to the life</b> <b>of the author</b> <b>plus</b> <b>50</b> <b>years</b>. <b>Corbet</b> <b>expects</b> <b>to sell</b> <b>the book</b> for 5 <b>years</b>. <b>What amount</b> <b>should</b> <b>Corbet</b> <b>report</b> <b>as amortization</b> <b>expense</b> <b>related</b> <b>to the copyright</b> <b>at the end</b> <b>of the current</b> <b>year</b> ..."
+      },
+      {
+        "query": "Corbet Co. purchased a copyright near the beginning of the current year from an author for $20000. The legal life of the copyright is equivalent to the life of the author plus 50 years. Corbet expects to sell the book for five years. What amount should Corbet report as amortization expense related to the copyright at the end of the current year? 4000",
+        "match_string": "Corbet Co purchased a copyright near the beginning of the current year from an author for $20,000 The legal life of the copyright is equivalent to the life of the author plus 50 years Corbet expects to sell the book for five years What amount should Corbet report as amortization expense related to the copyright at the end of the current",
+        "score": 0.9372287326388887,
+        "score_label": 0.0,
+        "name": "A 60000 b 61250 c 78750 d 80000 item id 42523 key c - Course Hero",
+        "url": "https://www.coursehero.com/file/p78oq9jk/A-60000-B-61250-C-78750-D-80000-Item-ID-42523-Key-C-FARCSO20190701-FAR002004000/",
+        "snippet": "25. <b>Corbet</b> <b>Co</b>. <b>purchased</b> <b>a copyright</b> <b>near</b> <b>the beginning</b> <b>of the current</b> <b>year</b> <b>from an author</b> <b>for $20,000</b>. <b>The legal</b> <b>life</b> <b>of the copyright</b> <b>is equivalent</b> <b>to the life</b> <b>of the author</b> <b>plus</b> <b>50</b> <b>years</b>. <b>Corbet</b> <b>expects</b> <b>to sell</b> <b>the book</b> <b>for five</b> <b>years</b>. <b>What amount</b> <b>should</b> <b>Corbet</b> <b>report</b> <b>as amortization</b> <b>expense</b> <b>related</b> <b>to the copyright</b> <b>at the end</b> <b>of the current</b> ..."
+      }
+    ],
+    [
+      {
+        "query": "A U.S. manufacturer has a production operation in Mexico. The product costs 116.50 pesos to produce and ship to Europe, where the product sells for 20 euros. If 0.1099 U.S. dollars are required to buy one Mexican peso, and 0.8928 U.S. dollars are required to buy one euro, what amount of U.S. dollars is the profit on the sale? $5.06",
+        "match_string": "A U.S manufacturer has a production operation in Mexico The product costs 116.50 pesos to produce and ship to Europe where the product sells for 20 euros If 0.1099 U.S dollars are required to buy one Mexican peso and 0.8928 U.S dollars are required to buy one euro what amount of U.S dollars is the profit on the sale",
+        "score": 0.9013006367700854,
+        "score_label": 0.0,
+        "name": "<b>BEC CPA Question Need Assistance</b> : r/Accounting - Reddit",
+        "url": "https://www.reddit.com/r/Accounting/comments/cguwma/bec_cpa_question_need_assistance/",
+        "snippet": "<b>A U.S</b>. <b>manufacturer</b> <b>has</b> <b>a production</b> <b>operation</b> <b>in Mexico</b>. <b>The product</b> <b>costs</b> <b>116.50</b> <b>pesos</b> <b>to produce</b> <b>and ship</b> <b>to Europe</b>, <b>where the product</b> <b>sells</b> <b>for 20</b> <b>euros</b>. <b>If 0.1099</b> <b>U.S</b>. <b>dollars</b> <b>are required</b> <b>to buy</b> <b>one</b> <b>Mexican</b> <b>peso</b>, <b>and 0.8928</b> <b>U.S</b>. <b>dollars</b> <b>are required</b> <b>to buy</b> <b>one</b> <b>euro</b>, <b>what amount</b> <b>of U.S</b>. <b>dollars</b> <b>is the profit</b> <b>on the sale</b>?"
+      }
+    ],
+    [
+      {
+        "query": "Polarization is a property of transverse waves",
+        "match_string": "polarization is a property of transverse waves transverse waves",
+        "score": 0.9883381924198251,
+        "score_label": 1.0,
+        "name": "Can <b>transverse sound waves be polarized</b>? - <b>Physics Stack Exchange</b>",
+        "url": "https://physics.stackexchange.com/questions/351861/can-transverse-sound-waves-be-polarized",
+        "snippet": "I know that <b>polarization</b> only occurs in <b>transverse</b> <b>waves</b> and <b>polarization</b> of light occurs as EM <b>wave</b> is a <b>transverse</b> <b>wave</b>. But sound <b>waves</b> are both <b>transverse</b> and longitudinal in solids. ... and if <b>polarization is a property of transverse waves</b>, then theoretically, it should be possible for that <b>transverse</b> sound <b>waves</b> to get polarized, ..."
+      },
+      {
+        "query": "Polarization is a property of transverse waves",
+        "match_string": "Polarization is a property transverse waves transverse wave wave Transverse waves polarization waves waves",
+        "score": 0.7301587301587301,
+        "score_label": 1.0,
+        "name": "<b>Polarization of Light – PhysicsOpenLab</b>",
+        "url": "https://physicsopenlab.org/2019/08/20/polarization-of-light/",
+        "snippet": "<b>Polarization</b> <b>is a property</b> applying to <b>transverse</b> <b>waves</b> that specifies the geometrical orientation of the oscillations, In a <b>transverse</b> <b>wave</b>, the direction of the oscillation is perpendicular to the direction of motion of the <b>wave</b>. <b>Transverse</b> <b>waves</b> that exhibit <b>polarization</b> include electromagnetic <b>waves</b> such as light and radio <b>waves</b> ..."
+      }
+    ],
+    [
+      {
+        "query": "If the volume of an object were to double, with no change in mass, its density would halve.",
+        "match_string": "If the volume of an object were to double with no change in mass its density Halve Double Density Halve",
+        "score": 0.9324298346789696,
+        "score_label": 1.0,
+        "name": "<b>If the volume of an object</b> <b>were</b> <b>to double</b>, <b>with no</b> <b>change</b> <b>in mass</b>, <b>its</b> ...",
+        "url": "https://socratic.org/questions/if-the-volume-of-an-object-were-to-double-with-no-change-in-mass-its-density-wou",
+        "snippet": "<b>If the volume of an object</b> <b>were</b> <b>to double</b>, <b>with no</b> <b>change</b> <b>in mass</b>, <b>its</b> <b>density</b> would? a) <b>Halve</b> b) <b>Double</b> c) Be the same d) None of these. Chemistry Measurement <b>Density</b>. 1 Answer Tazwar Sikder Aug 27, 2017 #&quot;a)&quot;# #&quot;<b>Halve</b>&quot;# Explanation: The formula ..."
+      }
+    ],
+    [
+      {
+        "query": "The power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is 500 W",
+        "match_string": "how much power is required to raise a 100 kg crate a vertical distance of 2 m in a time of 4 s Power s crate 100 kg m s 2 s",
+        "score": 0.7821871612670119,
+        "score_label": 0.0,
+        "name": "<b>How much power is required to raise</b> <b>a 100 kg</b> <b>crate</b> <b>a vertical</b> <b>distance</b> ...",
+        "url": "https://brainly.com/question/11780442",
+        "snippet": "To determine <b>how much power is required to raise</b> <b>a 100 kg</b> <b>crate</b> <b>a vertical</b> <b>distance</b> <b>of 2</b> <b>m</b> <b>in a time</b> <b>of 4</b> <b>s</b>, we can use the formula:<b>Power</b> = Work/TimeWhere:Work = Force x DistanceAnd:Force = Mass x GravityFirst, let&#39;<b>s</b> calculate the force needed to lift the <b>crate</b>:Force = <b>100 kg</b> x 9.81 <b>m</b>/<b>s</b>^<b>2</b> (acceleration due to gravity)Force = 981 NNext, let&#39;<b>s</b> cal..."
+      }
+    ],
+    [
+      {
+        "query": "While driving to school, Elise hears about a concert ticket giveaway on the radio. She has to be the seventh caller to win. While pulling over so that she can call in, she repeats the number to herself several times. Elise was using which of the following to remember the phone number? Maintenance rehearsal",
+        "match_string": "While driving to school Elise hears about a concert ticket giveaway on the radio She has to be the seventh caller to win While pulling over so that she can call in, she repeats the number to herself several times Elise was using which of the following to remember the phone number rehearsal",
+        "score": 0.9814551112165921,
+        "score_label": 0.5,
+        "name": "<b>While</b> <b>driving</b> <b>to school</b>, <b>Elise</b> <b>hears</b> <b>about a concert</b> <b>ticket</b> <b>giveaway</b> on ...",
+        "url": "https://brainly.com/question/15992996",
+        "snippet": "<b>While</b> <b>driving</b> <b>to school</b>, <b>Elise</b> <b>hears</b> <b>about a concert</b> <b>ticket</b> <b>giveaway</b> <b>on the radio</b>. <b>She</b> <b>has</b> <b>to be the seventh</b> <b>caller</b> <b>to win</b>. <b>While</b> <b>pulling</b> <b>over</b> <b>so</b> <b>that she</b> <b>can</b> <b>call</b> <b>in, she</b> <b>repeats</b> <b>the number</b> <b>to herself</b> <b>several</b> <b>times</b>. <b>Elise</b> <b>was using</b> <b>which of the following</b> <b>to remember</b> <b>the phone</b> <b>number</b>? A. Iconic memory B. Elaborative <b>rehearsal</b> C. Chunking D ..."
+      },
+      {
+        "query": "While driving to school, Elise hears about a concert ticket giveaway on the radio. She has to be the seventh caller to win. While pulling over so that she can call in, she repeats the number to herself several times. Elise was using which of the following to remember the phone number? Maintenance rehearsal",
+        "match_string": "While driving to school Elise hears about a concert ticket giveaway on the radio She has to be the seventh caller to win While pulling over so that she can call in, she repeats the number to herself several times Elise was using which of the following to remember the phone number rehearsal",
+        "score": 0.9814551112165921,
+        "score_label": 0.5,
+        "name": "<b>While</b> <b>driving</b> <b>to school</b>, <b>Elise</b> <b>hears</b> <b>about a concert</b> <b>ticket</b> <b>giveaway</b> on ...",
+        "url": "https://answers-learning.com/social-studies/question15992997",
+        "snippet": "Answers: 1 to question: <b>While</b> <b>driving</b> <b>to school</b>, <b>Elise</b> <b>hears</b> <b>about a concert</b> <b>ticket</b> <b>giveaway</b> <b>on the radio</b>. <b>She</b> <b>has</b> <b>to be the seventh</b> <b>caller</b> <b>to win</b>. <b>While</b> <b>pulling</b> <b>over</b> <b>so</b> <b>that she</b> <b>can</b> <b>call</b> <b>in, she</b> <b>repeats</b> <b>the number</b> <b>to herself</b> <b>several</b> <b>times</b>. <b>Elise</b> <b>was using</b> <b>which of the following</b> <b>to remember</b> <b>the phone</b> <b>number</b>?&lt;br /&gt;&lt;br /&gt; A. Iconic memory&lt;br /&gt; B. Elaborative <b>rehearsal</b>&lt;br /&gt; C. Chunking&lt;br /&gt; D ..."
+      }
+    ],
+    [
+      {
+        "query": "Seeing someone in line at the grocery store and remembering her or his name is an example of which kind of retrieval? recall",
+        "match_string": "Seeing someone in line at the grocery store and remembering her or his name is an example of which kind of retrieval",
+        "score": 0.9564768235716853,
+        "score_label": 0.0,
+        "name": "AP Psychology Review on Twitter: &quot;<b>Seeing</b> <b>someone</b> <b>in line</b> <b>at the grocery</b> ...",
+        "url": "https://twitter.com/Psych_Review/status/1123169126539845633",
+        "snippet": "“<b>Seeing</b> <b>someone</b> <b>in line</b> <b>at the grocery</b> <b>store</b> <b>and remembering</b> <b>her</b> <b>or his</b> <b>name</b> <b>is an example</b> <b>of which kind</b> <b>of retrieval</b> technique? #Cognition”"
+      }
+    ],
+    [
+      {
+        "query": "According to Austin the science of jurisprudence is concerned with Positive law",
+        "match_string": "positive law positive according to Austin law Law The science of jurisprudence concerned positive",
+        "score": 0.7812499999999999,
+        "score_label": 1.0,
+        "name": "<b>Analytical School of Jurisprudence</b> - Legal Bites",
+        "url": "https://www.legalbites.in/analytical-school-jurisprudence/",
+        "snippet": "The great contrast between <b>positive</b> <b>law</b> and <b>positive</b> morality, <b>according</b> <b>to Austin</b>, is that the former is set by a political superior whereas the latter is not the offspring of state and sovereign, hence it is not <b>law</b>. <b>Law</b> cannot be defined by reference to any idea of justice. <b>The science</b> <b>of jurisprudence</b> is only <b>concerned</b> with the <b>positive</b> laws."
+      }
+    ],
+    [
+      {
+        "query": "Which of the following phases are common to cells undergoing meiosis and mitosis?\nI. G0\nII. phase G2\nIII. phase S phase II and III only",
+        "match_string": "Which of the following phases are common to cells undergoing meiosis and mitosis phase phase phase only and III only II and III only II and III",
+        "score": 0.8064208518753974,
+        "score_label": 1.0,
+        "name": "<b>MCAT Biology Question — Meiosis and Mitosis</b> - Blueprint Prep",
+        "url": "https://blog.blueprintprep.com/mcat/mcat-biology-question-meiosis-and-mitosis/",
+        "snippet": "<b>Which of the following</b> <b>phases</b> <b>are common</b> <b>to cells</b> <b>undergoing</b> <b>meiosis</b> <b>and mitosis</b>? G 1 <b>phase</b> G 2 <b>phase</b> M <b>phase</b> I <b>only</b> I <b>and III</b> <b>only</b> <b>II</b> <b>and III</b> <b>only</b> I, <b>II</b>, <b>and III</b> Click for Explanation Want more MCAT practice? We’ve got options for every schedule and learning style!"
+      }
+    ],
+    [
+      {
+        "query": "Which of the following are plausible approaches to dealing with a model that exhibits heteroscedasticity?\n\ni) Take logarithms of each of the variables\n\nii) Use suitably modified standard errors\n\niii) Use a generalised least squares procedure\n\niv) Add lagged values of the variables to the regression equation. (i), (ii), and (iii) only",
+        "match_string": "Which of the following are plausible approaches to dealing with a model that exhibits i. Take logarithms of each of the variables ii Use suitably modified standard errors iii Use least squares procedure iv Add lagged values of the variables to the regression equation",
+        "score": 0.7041330645161291,
+        "score_label": 0.2727272727272727,
+        "name": "<b>Quiz 18 April 2017, questions and answers</b> - Studocu",
+        "url": "https://www.studocu.com/in/document/birla-institute-of-technology-and-science-pilani/econometrics/quiz-18-april-2017-questions-and-answers/5818838",
+        "snippet": "<b>Which of the following</b> <b>are plausible</b> <b>approaches</b> <b>to dealing</b> <b>with a model</b> <b>that exhibits</b> heteroskedasticity? <b>i. Take</b> <b>logarithms</b> <b>of each</b> <b>of the variables</b> <b>ii</b>. <b>Use</b> <b>suitably</b> <b>modified</b> <b>standard</b> <b>errors</b> <b>iii</b>. <b>Use</b> a generalized <b>least</b> <b>squares</b> <b>procedure</b> <b>iv</b>. <b>Add</b> <b>lagged</b> <b>values</b> <b>of the variables</b> <b>to the regression</b> <b>equation</b>. A."
+      }
+    ],
+    [
+      {
+        "query": " Newsletters, catalogues, and invitations to organization-sponsored events are most closely associated with the marketing mix activity of: Promotion.",
+        "match_string": "Newsletters catalogs and invitations sponsored events are most closely associated with the marketing mix activity Promotion marketing",
+        "score": 0.7471655328798186,
+        "score_label": 1.0,
+        "name": "<b>Newsletters</b>, <b>catalogs</b>, <b>and invitations</b> to organisation-<b>sponsored</b> <b>events</b> ...",
+        "url": "https://www.sarthaks.com/416987/newsletters-catalogs-invitations-organisation-sponsored-associated-marketing-activity",
+        "snippet": "<b>Newsletters</b>, <b>catalogs</b>, <b>and invitations</b> to organisation-<b>sponsored</b> <b>events</b> <b>are most</b> <b>closely</b> <b>associated</b> <b>with the marketing</b> <b>mix</b> <b>activity</b> of: a. Pricing b. Distribution c. Product development d. <b>Promotion</b> <b>marketing</b> Loaded 0% 1 Answer +1 vote answered Jun 24, 2019 by Aarush (70.0k points) selected Jun 24, 2019 by faiz"
+      }
+    ],
+    [
+      {
+        "query": " Types of non-random samples include: Convenience and quota samples.",
+        "match_string": "Non-random sampling examples include convenience and quota sampling random sampling",
+        "score": 0.7052154195011338,
+        "score_label": 1.0,
+        "name": "What are <b>sampling</b> methods and how do you choose the best one?",
+        "url": "https://s4be.cochrane.org/blog/2020/11/18/what-are-sampling-methods-and-how-do-you-choose-the-best-one/",
+        "snippet": "<b>Non-random</b> <b>sampling</b> methods are liable to bias, and common <b>examples</b> <b>include</b>: <b>convenience</b>, purposive, snowballing, <b>and quota</b> <b>sampling</b>. For the purposes of this blog we will be focusing on <b>random</b> <b>sampling</b> methods. Simple. Example: We want to conduct an experimental trial in a small population such as: employees in a company, or students in a ..."
+      },
+      {
+        "query": " Types of non-random samples include: Convenience and quota samples.",
+        "match_string": "non sampling sample non-random non sampling include convenience sampling sampling sampling sampling and quota sampling",
+        "score": 0.7052154195011338,
+        "score_label": 1.0,
+        "name": "<b>Sampling</b> Methods | <b>Types</b>, Techniques &amp; <b>Examples</b> - Scribbr",
+        "url": "https://www.scribbr.com/methodology/sampling-methods/",
+        "snippet": "In <b>non</b>-probability <b>sampling</b>, the <b>sample</b> is selected based on <b>non-random</b> criteria, and not every member of the population has a chance of being included. Common <b>non</b>-probability <b>sampling</b> methods <b>include</b> <b>convenience</b> <b>sampling</b>, voluntary response <b>sampling</b>, purposive <b>sampling</b>, snowball <b>sampling</b>, <b>and quota</b> <b>sampling</b>."
+      }
+    ],
+    [
+      {
+        "query": "Which of the following can form hydrogen bonds? CH3NH2",
+        "match_string": "Which of the following hydrogen bonds CH3NH2",
+        "score": 0.7687074829931974,
+        "score_label": 1.0,
+        "name": "<b>Which of the following</b> <b>can</b> exhibit <b>hydrogen</b> bonding (select all that ...",
+        "url": "https://brainly.com/question/17605536",
+        "snippet": "Find an answer to your question <b>Which of the following</b> <b>can</b> exhibit <b>hydrogen</b> bonding (select all that apply)? CH4, <b>CH3NH2</b>, HF, H2O Try new AI-powered features and SAVE up to 72% on a premium plan! Upgrade arrow ... <b>Which of the following</b> cannot have <b>hydrogen</b> <b>bonds</b>? Select one: A. NH3 B. H2O C. HF D. <b>CH3NH2</b> E. ..."
+      }
+    ],
+    [
+      {
+        "query": "The simplest alkene has at least four sigma bonds",
+        "match_string": "the simplest alkene alkene at least the simplest alkene at least bond 4",
+        "score": 0.7052154195011338,
+        "score_label": 0.8,
+        "name": "<b>Alkene: unsaturated hydrocarbon</b> | Chemistry!!! Not Mystery",
+        "url": "https://www.chemistrynotmystery.com/2019/03/alkene-unsaturated-hydrocarbon.html#!",
+        "snippet": "Let’s try to find <b>the simplest</b> <b>alkene</b>. To make an <b>alkene</b> we need <b>at least</b> one C=C, so <b>the simplest</b> <b>alkene</b> must contain <b>at least</b> 2 carbons which are bonded together through double <b>bond</b> which fulfils their 2 valances out of <b>4</b> and the remaining 2 valences are fulfilled by the hydrogen atoms."
+      }
+    ],
+    [
+      {
+        "query": "The Pauli exclusion principle states that no two electrons can have the same four quantum numbers",
+        "match_string": "The Pauli exclusion principle states no two electrons can have quantum state the same no electrons can have the same quantum numbers",
+        "score": 0.8405612244897959,
+        "score_label": 0.9,
+        "name": "<b>Pauli Exclusion Principle</b> Definition - ThoughtCo",
+        "url": "https://www.thoughtco.com/definition-of-pauli-exclusion-principle-605486",
+        "snippet": "<b>The Pauli exclusion principle</b> <b>states</b> <b>no</b> <b>two</b> <b>electrons</b> (or other fermions) <b>can</b> <b>have</b> the identical <b>quantum</b> mechanical <b>state</b> in <b>the same</b> atom or molecule. In other words, <b>no</b> pair of <b>electrons</b> in an atom <b>can</b> <b>have</b> <b>the same</b> electronic <b>quantum</b> <b>numbers</b> n, l, m l, and m s."
+      },
+      {
+        "query": "The Pauli exclusion principle states that no two electrons can have the same four quantum numbers",
+        "match_string": "the Pauli exclusion principle no two electrons can have the same quantum numbers quantum number quantum number",
+        "score": 0.8006656804733728,
+        "score_label": 0.9,
+        "name": "<b>Quantum Number</b> Definition (Chemistry and Physics) - ThoughtCo",
+        "url": "https://www.thoughtco.com/definition-of-quantum-number-604629",
+        "snippet": "According to <b>the Pauli</b> <b>exclusion</b> <b>principle</b>, <b>no</b> <b>two</b> <b>electrons</b> in an atom <b>can</b> <b>have</b> <b>the same</b> set of <b>quantum</b> <b>numbers</b>. Each <b>quantum number</b> is represented by either a half-integer or integer value. The principal <b>quantum number</b> is an integer that is the number of the electron&#39;s shell. The value is 1 or higher (never 0 or negative)."
+      },
+      {
+        "query": "The Pauli exclusion principle states that no two electrons can have the same four quantum numbers",
+        "match_string": "The Pauli exclusion principle states that no two electrons can have the same four quantum numbers the same quantum can two electrons have have the same four quantum numbers",
+        "score": 0.9847412109375,
+        "score_label": 1.0,
+        "name": "Electronic <b>configuration</b> of uranium - Chemistry Stack Exchange",
+        "url": "https://chemistry.stackexchange.com/questions/70667/electronic-configuration-of-uranium",
+        "snippet": "<b>The Pauli exclusion principle states that no two electrons can have the same four quantum numbers</b>. The first three (n, l, and ml) may be <b>the same</b>, but the fourth <b>quantum</b> number must be different. A single orbital <b>can</b> hold a maximum of <b>two</b> <b>electrons</b>, which must <b>have</b> opposing spins; otherwise they would <b>have</b> <b>the same</b> <b>four</b> <b>quantum</b> <b>numbers</b>, which ..."
+      },
+      {
+        "query": "The Pauli exclusion principle states that no two electrons can have the same four quantum numbers",
+        "match_string": "the Pauli Exclusion Principle states that no two can the same quantum state",
+        "score": 0.736111111111111,
+        "score_label": 0.6,
+        "name": "This <b>Little-Known Quantum Rule Makes Our Existence Possible</b> - <b>Forbes</b>",
+        "url": "https://www.forbes.com/sites/startswithabang/2019/05/28/this-little-known-quantum-rule-makes-our-existence-possible/",
+        "snippet": "Most of us barely give a second thought to <b>the Pauli</b> <b>Exclusion</b> <b>Principle</b>, which simply <b>states</b> <b>that no</b> <b>two</b> identical fermions <b>can</b> occupy <b>the same</b> exact <b>quantum</b> <b>state</b> in <b>the..."
+      },
+      {
+        "query": "The Pauli exclusion principle states that no two electrons can have the same four quantum numbers",
+        "match_string": "electrons Pauli exclusion principle states that no two can the same quantum state electrons the same the same quantum state",
+        "score": 0.7725591715976332,
+        "score_label": 0.7,
+        "name": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/a-childs-puzzle-has-helped-unlock-the-secrets-of-magnetism-20190124/",
+        "snippet": "In addition, <b>electrons</b> must obey the so-called <b>Pauli</b> <b>exclusion</b> <b>principle</b>, which <b>states</b> <b>that no</b> <b>two</b> particles <b>can</b> occupy <b>the same</b> <b>quantum</b> <b>state</b>. This means that <b>electrons</b> with <b>the same</b> property of “spin” — which is proportional to the electron’s magnetic moment — cannot occupy <b>the same</b> <b>quantum</b> <b>state</b> around an atom in the metal."
+      }
+    ],
+    [
+      {
+        "query": "The Minoans inhabited the Mediterranean island of Crete.",
+        "match_string": "The Minoan Civilization island of Crete Mediterranean the Minoans",
+        "score": 0.7155612244897959,
+        "score_label": 1.0,
+        "name": "<b>Minoan Civilization</b> - World History Encyclopedia",
+        "url": "https://www.worldhistory.org/Minoan_Civilization/",
+        "snippet": "<b>The Minoan Civilization</b> flourished in the Middle Bronze Age (c. 2000 - c. 1450 BCE) on the <b>island</b> <b>of Crete</b> located in the eastern <b>Mediterranean</b>. With their unique art and architecture, and the spread of their ideas through contact with other cultures across the Aegean, <b>the Minoans</b> made a significant contribution to the development of Western ..."
+      },
+      {
+        "query": "The Minoans inhabited the Mediterranean island of Crete.",
+        "match_string": "Palace of Minos at Knossos island of Crete the Mediterranean the Minoan",
+        "score": 0.715561224489796,
+        "score_label": 1.0,
+        "name": "The <b>Palace of Minos at Knossos</b> in Ancient <b>Crete</b> - ThoughtCo",
+        "url": "https://www.thoughtco.com/palace-of-minos-archaeology-171715",
+        "snippet": "The <b>Palace of Minos at Knossos</b> is one of the most famous archaeological sites in the world. Located on Kephala Hill on the <b>island</b> <b>of Crete</b> in <b>the Mediterranean</b> Sea off the coast of Greece, Knossos palace was the political, social and cultural center of <b>the Minoan</b> culture during the Early and Middle Bronze Age.Founded at least as early as 2400 BC, its power was greatly diminished, but not ..."
+      }
+    ],
+    [
+      {
+        "query": "Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the battery. The other two capacitors, initially uncharged and connected in series, are then connected across the first capacitor. What is the final voltage on the first capacitor? 2V_0/3",
+        "match_string": "Consider three identical ideal capacitors The first capacitor is charged to a voltage from the battery The other two capacitors initially uncharged and connected in series are then connected across the first What is the final voltage across the first capacitor capacitor",
+        "score": 0.8879936890567208,
+        "score_label": 0.0,
+        "name": "Answer in <b>Atomic and Nuclear Physics for Aritra Dey</b> #121705",
+        "url": "https://www.assignmentexpert.com/homework-answers/physics/atomic-and-nuclear-physics/question-121705",
+        "snippet": "<b>Consider</b> <b>three</b> <b>identical</b>, <b>ideal</b> <b>capacitors</b>. <b>The first</b> <b>capacitor</b> <b>is charged</b> <b>to a voltage</b> V and thendisconnected <b>from the battery</b>. <b>The other</b> <b>two</b> <b>capacitors</b>, <b>initially</b> <b>uncharged</b> <b>and connected</b> <b>in series</b>,<b>are then</b> <b>connected</b> <b>across</b> <b>the first</b>. <b>What is the final</b> <b>voltage</b> <b>across</b> <b>the first</b> <b>capacitor</b>? Expert&#39;s answer Let each <b>capacitor</b> has capacitance C C"
+      }
+    ],
+    [
+      {
+        "query": "Blue light of wavelength 480 nanometers is most strongly reflected off a thin film of oil on a glass slide when viewed near normal incidence. Assuming that the index of refraction of the oil is 1.2 and that of the glass is 1.6, what is the minimum thickness of the oil film (other than zero) ? 200 nm",
+        "match_string": "blue light of wavelength 480 nm is most strongly reflected off a thin film of oil on a glass slide when viewed near normal incidence assuming that the index of refraction of the oil is 1.2 and that of the glass is 1.6 what is the minimum thickness of the oil film other than zero",
+        "score": 0.9320240930102255,
+        "score_label": 0.5,
+        "name": "An <b>oil</b> <b>film</b> with <b>index</b> <b>of refraction</b> 1.64 is trapped between two pieces ...",
+        "url": "https://brainly.com/question/14267237",
+        "snippet": "<b>blue</b> <b>light</b> <b>of wavelength</b> <b>480</b> <b>nm</b> <b>is most</b> <b>strongly</b> <b>reflected</b> <b>off</b> <b>a thin</b> <b>film</b> <b>of oil</b> <b>on a glass</b> <b>slide</b> <b>when viewed</b> <b>near</b> <b>normal</b> <b>incidence</b>. <b>assuming</b> <b>that the index</b> <b>of refraction</b> <b>of the oil</b> <b>is 1.2</b> <b>and that of the glass</b> <b>is 1.6</b>, <b>what is the minimum</b> <b>thickness</b> <b>of the oil</b> <b>film</b> (<b>other</b> <b>than</b> <b>zero</b>)?"
+      },
+      {
+        "query": "Blue light of wavelength 480 nanometers is most strongly reflected off a thin film of oil on a glass slide when viewed near normal incidence. Assuming that the index of refraction of the oil is 1.2 and that of the glass is 1.6, what is the minimum thickness of the oil film (other than zero) ? 200 nm",
+        "match_string": "Blue light of wavelength 480 nm is most strongly reflected off a thin film of oil on a glass when viewed near normal incidence Assuming that the index of refraction of the oil is 1.2 and that of the glass is 1.6 what is the minimum thickness of the oil film other zero nm 200 nm nm",
+        "score": 0.9142573992699542,
+        "score_label": 1.0,
+        "name": "<b>Blue</b> <b>light</b> <b>of wavelength</b> <b>480</b> <b>nm is most strongly reflected off a thin</b> ...",
+        "url": "https://www.sarthaks.com/1736926/blue-light-wavelength-strongly-reflected-film-glass-when-viewed-normal-incidence-assuming",
+        "snippet": "<b>Blue</b> <b>light</b> <b>of wavelength</b> <b>480</b> <b>nm is most strongly reflected off a thin</b> <b>film</b> <b>of oil</b> <b>on a glass</b> slab <b>when viewed</b> <b>near</b> <b>normal</b> <b>incidence</b>. <b>Assuming</b> <b>that the index</b> <b>of refraction</b> <b>of the oil</b> <b>is 1.2</b> <b>and that of the glass</b> <b>is 1.6</b>, <b>what is the minimum</b> <b>thickness</b> <b>of the oil</b> <b>film</b> (<b>other</b> then <b>zero</b>)? A. 100 <b>nm</b> B. <b>200</b> <b>nm</b> C. 300 <b>nm</b> D. none"
+      }
+    ],
+    [
+      {
+        "query": "What are workers primarily motivated by according to the instrumental approach? Economic reward",
+        "match_string": "What are workers primarily motivated by according to the instrumental approach Economic reward",
+        "score": 0.9997724169321802,
+        "score_label": 1.0,
+        "name": "Business Management MCQs with Answer for Exam &amp; Test Preparation - Page ...",
+        "url": "https://academictask.com/business-management/business-management-mcqs/10/",
+        "snippet": "95. <b>What are workers</b> <b>primarily</b> <b>motivated</b> <b>by according</b> <b>to the instrumental</b> <b>approach</b>? A. Peer recognition B. Promotion C. Greater freedom D. <b>Economic</b> <b>reward</b>. 96. Which of the following motivators is the most basic need in Maslow’s hierarchy? A. Safety B. Belonging C. Physiological D. Esteem. 97. Which one of the following is a feature of ..."
+      }
+    ],
+    [
+      {
+        "query": "Which of these does not form part of the key streams identified by March (1988) in decision making in highly ambiguous environments? Expectations",
+        "match_string": "Which of these does not form part of the key streams identified by March 1988 in decision making in highly ambiguous environments Expectations decision making",
+        "score": 0.9152741020793951,
+        "score_label": 1.0,
+        "name": "Business Management MCQs with Answer for Exam &amp; Test Preparation - Page ...",
+        "url": "https://academictask.com/business-management/business-management-mcqs/10/",
+        "snippet": "<b>Which of these</b> <b>does</b> <b>not</b> <b>form</b> <b>part</b> <b>of the key</b> <b>streams</b> <b>identified</b> <b>by March</b> (<b>1988</b>) <b>in decision</b> <b>making</b> <b>in highly</b> <b>ambiguous</b> <b>environments</b>? A. <b>Expectations</b> B. Choice opportunities C. Problems D. Solutions. 93. What assumption is the garbage can model of <b>decision</b> <b>making</b> based on? A."
+      }
+    ],
+    [
+      {
+        "query": "In a hypothetical environment, fishes called pike-cichlids are visual predators of algae-eating fish (i.e., they locate their prey by sight). If a population of algae-eaters experiences predation pressure from pike-cichlids, which of the following should least likely be observed in the algae-eater population over the course of many generations? Selection for larger female algae-eaters, bearing broods composed of more, and larger, young",
+        "match_string": "In a hypothetical environment, fishes called pike-cichlids are visual predators of algae-eating fish i.e they locate their prey by sight If a population of algae-eaters experiences predation pressure from pike-cichlids which of the following should least likely be observed in the algae-eater population over the course of many generations",
+        "score": 0.7441406249999999,
+        "score_label": 0.15384615384615385,
+        "name": "<b>OneClass</b>: <b>In a hypothetical environment, fishes called pike-cichlids</b> ...",
+        "url": "https://oneclass.com/homework-help/biology/103777-in-a-hypothetical-environment.en.html",
+        "snippet": "<b>In a hypothetical environment, fishes called pike-cichlids</b> <b>are visual</b> <b>predators</b> <b>of algae-eating</b> <b>fish</b> (<b>i.e</b>., <b>they</b> <b>locate</b> <b>their</b> <b>prey</b> <b>by sight</b>). <b>If a population</b> <b>of algae-eaters</b> <b>experiences</b> <b>predation</b> <b>pressure</b> <b>from pike-cichlids</b>, <b>which of the following</b> <b>should</b> <b>least</b> <b>likely</b> <b>be observed</b> <b>in the algae-eater</b> <b>population</b> <b>over</b> <b>the course</b> <b>of many</b> <b>generations</b>?"
+      },
+      {
+        "query": "In a hypothetical environment, fishes called pike-cichlids are visual predators of algae-eating fish (i.e., they locate their prey by sight). If a population of algae-eaters experiences predation pressure from pike-cichlids, which of the following should least likely be observed in the algae-eater population over the course of many generations? Selection for larger female algae-eaters, bearing broods composed of more, and larger, young",
+        "match_string": "In a hypothetical environment fishes called pike-cichlids are visual predators of algae-eating fish i.e they locate their prey by sight If a population of algae-eaters experiences predation pressure from pike-cichlids which of the following should least likely be observed in the algae-eater population over the course of many generations",
+        "score": 0.7441406249999999,
+        "score_label": 0.15384615384615385,
+        "name": "<b>Keystone predators can maintain species diversity</b> in a ... - OneClass",
+        "url": "https://oneclass.com/homework-help/biology/95306-keystone-predators-can-maintain.en.html",
+        "snippet": "<b>In a hypothetical</b> <b>environment</b>, <b>fishes</b> <b>called</b> <b>pike-cichlids</b> <b>are visual</b> <b>predators</b> <b>of algae-eating</b> <b>fish</b> (<b>i.e</b>., <b>they</b> <b>locate</b> <b>their</b> <b>prey</b> <b>by sight</b>). <b>If a population</b> <b>of algae-eaters</b> <b>experiences</b> <b>predation</b> <b>pressure</b> <b>from pike-cichlids</b>, <b>which of the following</b> <b>should</b> <b>least</b> <b>likely</b> <b>be observed</b> <b>in the algae-eater</b> <b>population</b> <b>over</b> <b>the course</b> <b>of many</b> <b>generations</b>?"
+      },
+      {
+        "query": "In a hypothetical environment, fishes called pike-cichlids are visual predators of algae-eating fish (i.e., they locate their prey by sight). If a population of algae-eaters experiences predation pressure from pike-cichlids, which of the following should least likely be observed in the algae-eater population over the course of many generations? Selection for larger female algae-eaters, bearing broods composed of more, and larger, young",
+        "match_string": "In a hypothetical environment fishes called pike-cichlids are visual predators of algae-eating fish they locate their prey by sight If a population of algae-eaters experiences predation pressure from pike-cichlids which of the following should least likely be observed in the algae-eater population over the course of many generations",
+        "score": 0.744140625,
+        "score_label": 0.15384615384615385,
+        "name": "Test 4 May 2020, questions and answers - Biologi Dasar - Studocu",
+        "url": "https://www.studocu.com/id/document/institut-teknologi-bandung/biologi-dasar/test-4-may-2020-questions-and-answers/9717048",
+        "snippet": "<b>In a hypothetical</b> <b>environment</b>, <b>fishes</b> <b>called</b> <b>pike-cichlids</b> <b>are visual</b> <b>predators</b> <b>of algae-eating</b> <b>fish</b> (i., <b>they</b> <b>locate</b> <b>their</b> <b>prey</b> <b>by sight</b>). <b>If a population</b> <b>of algae-eaters</b> <b>experiences</b> <b>predation</b> <b>pressure</b> <b>from pike-cichlids</b>, <b>which of the following</b> <b>should</b> <b>least</b> <b>likely</b> <b>be observed</b> <b>in the algae-eater</b> <b>population</b> <b>over</b> <b>the course</b> <b>of many</b> <b>generations</b> ..."
+      }
+    ],
+    [
+      {
+        "query": "Monkeys of South and Central America have prehensile tails, meaning that their tails can be used to grasp objects. The tails of African and Asian monkeys are not prehensile. Which discipline is most likely to provide an evolutionary explanation for how this difference in tails came about? Biogeography",
+        "match_string": "of South and Central America have prehensile tails, meaning that their tails can be used to grasp objects The tails of African and Asian monkeys are not prehensile Which discipline is most likely to provide an evolutionary explanation for how this difference in tails came",
+        "score": 0.9374948559670782,
+        "score_label": 0.0,
+        "name": "Monkey <b>of South</b> <b>and Central America have prehensile tails, meaning</b> that ...",
+        "url": "https://brainly.com/question/15034552",
+        "snippet": "Monkey <b>of South</b> <b>and Central America have prehensile tails, meaning</b> <b>that their</b> <b>tails</b> <b>can</b> <b>be used</b> <b>to grasp</b> <b>objects</b>. <b>The tails</b> <b>of African</b> <b>and Asian</b> <b>monkeys</b> <b>are not</b> <b>prehensile</b>. <b>Which discipline</b> <b>is most</b> <b>likely</b> <b>to provide</b> <b>an evolutionary</b> <b>explanation</b> <b>for how this difference</b> <b>in tails</b> <b>came</b> about? Advertisement missconfusion6932 is waiting for your help."
+      }
+    ],
+    [
+      {
+        "query": "There are 40 individuals in population 1, all of which have genotype A1A1, and there are 25 individuals in population 2, all of genotype A2A2. Assume that these populations are located far from one another and that their environmental conditions are very similar. Based on the information given here, the observed genetic variation is mostly likely an example of genetic drift.",
+        "match_string": "There are 25 individuals in population 1 all genotype and there are 40 individuals in population 2 all genotype assume that these populations are located far and that their environmental conditions are very similar based on the information given here the observed genetic variation likely",
+        "score": 0.7288119813802875,
+        "score_label": 0.5,
+        "name": "<b>There</b> <b>are 40</b> <b>individuals</b> <b>in population</b> <b>1</b>, <b>all</b> with <b>genotype</b> <b>A1A1</b>, and ...",
+        "url": "https://brainly.com/question/16036137",
+        "snippet": "<b>There</b> <b>are 25</b> <b>individuals</b> <b>in population</b> <b>1</b>, <b>all</b> with <b>genotype</b> aa, <b>and there</b> <b>are 40</b> <b>individuals</b> <b>in population</b> <b>2</b>, <b>all</b> with <b>genotype</b> aa. <b>assume</b> <b>that these</b> <b>populations</b> <b>are located</b> <b>far</b> from each other <b>and that their</b> <b>environmental</b> <b>conditions</b> <b>are very</b> <b>similar</b>. <b>based</b> <b>on the information</b> <b>given</b> <b>here</b>, <b>the observed</b> <b>genetic</b> <b>variation</b> most <b>likely</b> resulted from"
+      }
+    ],
+    [
+      {
+        "query": "John Stuart Mill: Each person's happiness is a good to that person, and the general happiness, therefore, a good to the aggregate of all persons. Fallacy of Composition",
+        "match_string": "all all happiness is a good each person&#39;s happiness is a good to that person and the general happiness therefore a good to the aggregate of all persons Happiness",
+        "score": 0.7464021088629239,
+        "score_label": 0.3333333333333333,
+        "name": "<b>On Virtue and Happiness</b>, by <b>John</b> <b>Stuart</b> <b>Mill</b> - ThoughtCo",
+        "url": "https://www.thoughtco.com/virtue-and-happiness-john-stuart-mill-1690300",
+        "snippet": "This, however, being a fact, we have not only <b>all</b> the proof which the case admits of, but <b>all</b> which it is possible to require, that <b>happiness</b> <b>is a good</b>, that <b>each</b> <b>person&#39;s</b> <b>happiness</b> <b>is a good</b> <b>to that person</b>, <b>and the general</b> <b>happiness</b>, <b>therefore</b>, <b>a good</b> <b>to the aggregate</b> <b>of all</b> <b>persons</b>. <b>Happiness</b> has made out its title as one of the ends of ..."
+      },
+      {
+        "query": "John Stuart Mill: Each person's happiness is a good to that person, and the general happiness, therefore, a good to the aggregate of all persons. Fallacy of Composition",
+        "match_string": "all all happiness is a good each person’s happiness is a good to that person and the general happiness therefore a good to the aggregate of all persons fallacy of composition",
+        "score": 0.8618482758620689,
+        "score_label": 1.0,
+        "name": "<b>Mill’s Moral Theory</b> - Pomona College",
+        "url": "http://carneades.pomona.edu/2019-Ethics/06.Mill.html",
+        "snippet": "This, however, being a fact, we have not only <b>all</b> the proof which the case admits of, but <b>all</b> which it is possible to require, that <b>happiness</b> <b>is a good</b>: that <b>each</b> <b>person’s</b> <b>happiness</b> <b>is a good</b> <b>to that person</b>, <b>and the general</b> <b>happiness</b>, <b>therefore</b>, <b>a good</b> <b>to the aggregate</b> <b>of all</b> <b>persons</b>. (4.3) This argument commits the <b>fallacy</b> <b>of composition</b>."
+      },
+      {
+        "query": "John Stuart Mill: Each person's happiness is a good to that person, and the general happiness, therefore, a good to the aggregate of all persons. Fallacy of Composition",
+        "match_string": "all all happiness is a good each person’s happiness is a good to that person and the general happiness therefore a good to the aggregate of all persons Happiness",
+        "score": 0.7464021088629239,
+        "score_label": 0.3333333333333333,
+        "name": "<b>The Moral Philosophers: Aristotle, Hume, Kant, Mill</b>, and Nietzsche",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-030-45680-1_12",
+        "snippet": "This, however, being a fact, we have not only <b>all</b> the proof which the case admits of, but <b>all</b> which it is possible to require, that <b>happiness</b> <b>is a good</b>: that <b>each</b> <b>person’s</b> <b>happiness</b> <b>is a good</b> <b>to that person</b>, <b>and the general</b> <b>happiness</b>, <b>therefore</b>, <b>a good</b> <b>to the aggregate</b> <b>of all</b> <b>persons</b>. <b>Happiness</b> has made out its title as one of the ends of ..."
+      }
+    ],
+    [
+      {
+        "query": "Given a Neural Net with N input nodes, no hidden layers, one output node, with Entropy Loss and Sigmoid Activation Functions, which of the following algorithms (with the proper hyper-parameters and initialization) can be used to find the global optimum? All of the above",
+        "match_string": "Given a Neural Net with N input nodes no hidden layers one output node with Entropy Loss and Sigmoid Activation Functions which of the following algorithms with the proper hyper-parameters and initialization can be used to find the global optimum",
+        "score": 0.8627717391304348,
+        "score_label": 0.5,
+        "name": "<b>Machine Learning Multiple Choice Questions and Answers</b> 11",
+        "url": "https://www.exploredatabase.com/2020/05/machine-learning-multiple-choice-questions-set-11.html",
+        "snippet": "1. <b>Given</b> <b>a Neural</b> <b>Net</b> <b>with N</b> <b>input</b> <b>nodes</b>, <b>no</b> <b>hidden</b> <b>layers</b>, <b>one</b> <b>output</b> <b>node</b>, <b>with Entropy</b> <b>Loss</b> <b>and Sigmoid</b> <b>Activation</b> <b>Functions</b>, <b>which of the following</b> <b>algorithms</b> (<b>with the proper</b> <b>hyper-parameters</b> <b>and initialization</b>) <b>can</b> <b>be used</b> <b>to find</b> <b>the global</b> <b>optimum</b>? a) Stochastic Gradient Descent b) Mini-Batch Gradient Descent c) Batch Gradient Descent"
+      }
+    ],
+    [
+      {
+        "query": "A and B are two events. If P(A, B) decreases while P(A) increases, which of the following is true? P(B|A) decreases",
+        "match_string": "A and B are two events If P A, B decreases while P A) increases which of the following is true P A|B decreases b P B|A decreases P B decreases",
+        "score": 0.7433333333333335,
+        "score_label": 0.8,
+        "name": "<b>Machine Learning Multiple Choice Questions and</b> Answers 03",
+        "url": "https://www.exploredatabase.com/2020/05/machine-learning-multiple-choice-questions-set-03.html",
+        "snippet": "<b>A and B</b> <b>are two</b> <b>events</b>. <b>If P</b>(<b>A, B</b>) <b>decreases</b> <b>while</b> <b>P</b>(<b>A) increases</b>, <b>which of the following</b> <b>is true</b>? a) <b>P</b>(<b>A|B</b>) <b>decreases</b>. <b>b</b>) <b>P</b>(<b>B|A</b>) <b>decreases</b>. c) <b>P</b>(<b>B</b>) <b>decreases</b>. ... = <b>P</b>(<b>B|A</b>)<b>P</b>(A). In this equation, <b>if P</b>(<b>A) increases</b> then, only the decrease in <b>P</b>(<b>B|A</b>) will result in decrease of <b>P</b>(<b>A, B</b>). 3. In building a linear regression model for a particular data ..."
+      }
+    ],
+    [
+      {
+        "query": "Who was the first American president to visit communist China? Richard Nixon",
+        "match_string": "Nixon goes to China Richard Nixon first American president to visit China communist",
+        "score": 0.7170781893004115,
+        "score_label": 1.0,
+        "name": "<b>Nixon Goes to China</b> | Wilson Center",
+        "url": "https://www.wilsoncenter.org/blog-post/nixon-goes-to-china",
+        "snippet": "Cold War <b>Nixon goes to China</b>, and affirms it&#39;s one country Forty-five years ago this week, <b>Richard</b> <b>Nixon</b> arrived in Beijing and became the <b>first</b> <b>American</b> <b>president</b> <b>to visit</b> the People&#39;s Republic of <b>China</b>. Relations with the <b>communist</b> state had been antagonistic since its founding in 1949."
+      }
+    ],
+    [
+      {
+        "query": "For very high force contractions lasting 1-2 seconds, the initial energy source is from: ATP stores.",
+        "match_string": "For very high force contractions lasting 1-2 seconds the initial energy source ATP stores stores 1 contraction ATP",
+        "score": 0.8706951530612245,
+        "score_label": 1.0,
+        "name": "Anatomy And Physiology Archive | April 28, 2020 | Chegg.com",
+        "url": "https://www.chegg.com/homework-help/questions-and-answers/anatomy-and-physiology-archive-2020-april-28?page=4",
+        "snippet": "<b>For very</b> <b>high</b> <b>force</b> <b>contractions</b> <b>lasting</b> <b>1-2</b> <b>seconds</b>, <b>the initial</b> <b>energy</b> <b>source</b> is from: none of the other answers given <b>ATP</b> <b>stores</b> SR <b>stores</b> creatine phosphorylation glycolysis <b>1</b> answer Muscle <b>contraction</b> at the level of the sarcomere is initiated by Otroponin binding to tropomyosin magnesium binding to myosin <b>ATP</b> binding to the myosin cross ..."
+      }
+    ],
+    [
+      {
+        "query": "Eccrine and apocrine glands are both types of: sweat glands.",
+        "match_string": "type of sweat gland sweat gland both eccrine and apocrine type of sweat gland",
+        "score": 0.8604938271604939,
+        "score_label": 1.0,
+        "name": "Neural control <b>of sweat</b> secretion: a review - Oxford Academic",
+        "url": "https://academic.oup.com/bjd/article-abstract/178/6/1246/6687643",
+        "snippet": "In the 1980s, Sato et al. first reported the third <b>type</b> <b>of sweat</b> <b>gland</b>, the apoeccrine <b>sweat</b> <b>gland</b>. 16, 18 It combined features of <b>both</b> <b>eccrine</b> <b>and apocrine</b>, distributed in adult axillary and anal regions. 13, 22, 23 This <b>type</b> <b>of sweat</b> <b>gland</b> showed a greater responsiveness to cholinergic and adrenergic stimuli and a higher secretion rate than ..."
+      }
+    ],
+    [
+      {
+        "query": "Roslyn has twenty boxes. Thirteen of the boxes contain pencils, nine of the boxes contain pens, and three of the boxes contain neither pens nor pencils. How many boxes contain both pens and pencils? 5",
+        "match_string": "roslyn has twenty boxes thirteen of the boxes contain pencils nine of the boxes contain pens and three of the boxes contain neither pens nor pencils how many boxes contain both pens and pencils boxes pencils pens pencils",
+        "score": 0.8398418190805733,
+        "score_label": 0.0,
+        "name": "A store receives a shipment of <b>pens</b> <b>and pencils</b>. Each box contains 75 ...",
+        "url": "https://brainly.com/question/14257001",
+        "snippet": "<b>roslyn</b> <b>has</b> <b>twenty</b> <b>boxes</b>. <b>thirteen</b> <b>of the boxes</b> <b>contain</b> <b>pencils</b>, <b>nine</b> <b>of the boxes</b> <b>contain</b> <b>pens</b>, <b>and three</b> <b>of the boxes</b> <b>contain</b> <b>neither</b> <b>pens</b> <b>nor</b> <b>pencils</b>. <b>how many</b> <b>boxes</b> <b>contain</b> <b>both</b> <b>pens</b> <b>and pencils</b>? verified. Verified answer. 8. John buys some <b>boxes</b> of <b>pencils</b> and some packets of <b>pens</b> for people to use at a conference There are 40 <b>pencils</b> in a box."
+      }
+    ],
+    [
+      {
+        "query": "The first term of a given sequence is 1, and each successive term is the sum of all the previous terms of the sequence. What is the value of the first term which exceeds 5000? 8192",
+        "match_string": "The first term of a given sequence is 1 and each successive term is the sum of all the previous terms of the sequence What is the value of the first term which exceeds 5000",
+        "score": 0.9722108843537415,
+        "score_label": 0.0,
+        "name": "View question - algebra - Web 2.0 scientific calculator",
+        "url": "https://web2.0calc.com/questions/algebra_64506",
+        "snippet": "<b>The first</b> <b>term</b> <b>of a given</b> <b>sequence</b> <b>is 1</b>, <b>and each</b> <b>successive</b> <b>term</b> <b>is the sum</b> <b>of all</b> <b>the previous</b> <b>terms</b> <b>of the sequence</b>. <b>What is the value</b> <b>of the first</b> <b>term</b> <b>which exceeds</b> <b>5000</b>? Guest May 21, 2020"
+      }
+    ],
+    [
+      {
+        "query": "In 1960, there were 450,000 cases of measles reported in the U.S. In 1996, there were 500 cases reported. How many cases of measles would have been reported in 1987 if the number of cases reported from 1960 to 1996 decreased linearly? 112875",
+        "match_string": "In 1960 there were 450,000 cases of measles reported in the U.S In 1996 there were 500 cases reported How many cases of measles would have been reported in 1987 if the number of cases reported from 1960 to 1996 decreased linearly",
+        "score": 0.9767375942625112,
+        "score_label": 0.0,
+        "name": "View question - Help ASAP - Web 2.0 scientific calculator",
+        "url": "https://web2.0calc.com/questions/help-asap_88070",
+        "snippet": "<b>In 1960</b>, <b>there</b> <b>were</b> <b>450,000</b> <b>cases</b> <b>of measles</b> <b>reported</b> <b>in the U.S</b>. <b>In 1996</b>, <b>there</b> <b>were</b> <b>500</b> <b>cases</b> <b>reported</b>. <b>How many</b> <b>cases</b> <b>of measles</b> <b>would have</b> <b>been</b> <b>reported</b> <b>in 1987</b> <b>if the number</b> <b>of cases</b> <b>reported</b> <b>from 1960</b> <b>to 1996</b> <b>decreased</b> <b>linearly</b>?"
+      },
+      {
+        "query": "In 1960, there were 450,000 cases of measles reported in the U.S. In 1996, there were 500 cases reported. How many cases of measles would have been reported in 1987 if the number of cases reported from 1960 to 1996 decreased linearly? 112875",
+        "match_string": "please help In 1960 there were 450,000 cases of measles reported in the U.S In 1996 there were 500 cases reported How many cases of measles would have been reported in 1987 if the number of cases reported from 1960 to 1996 decreased linearly",
+        "score": 0.9767375942625112,
+        "score_label": 0.0,
+        "name": "View question - <b>please help</b> - Web 2.0 scientific calculator",
+        "url": "https://web2.0calc.com/questions/please-help_32069",
+        "snippet": "<b>please help</b>. 0. 495. 1. <b>In 1960</b>, <b>there</b> <b>were</b> <b>450,000</b> <b>cases</b> <b>of measles</b> <b>reported</b> <b>in the U.S</b>. <b>In 1996</b>, <b>there</b> <b>were</b> <b>500</b> <b>cases</b> <b>reported</b>. <b>How many</b> <b>cases</b> <b>of measles</b> <b>would have</b> <b>been</b> <b>reported</b> <b>in 1987</b> <b>if the number</b> <b>of cases</b> <b>reported</b> <b>from 1960</b> <b>to 1996</b> <b>decreased</b> <b>linearly</b>? Guest May 25, 2020."
+      }
+    ],
+    [
+      {
+        "query": "Given that a rectangle with length $3x$ inches and width $x + 5$ inches has the property that its area and perimeter have equal values, what is $x$? 1",
+        "match_string": "Given that a rectangle with length 3x inches and width x 5 inches has the property that its area and perimeter have equal values what is X",
+        "score": 0.7647070350774055,
+        "score_label": 0.0,
+        "name": "All Questions - Web 2.0 scientific calculator",
+        "url": "https://web2.0calc.com/questions/page/6146",
+        "snippet": "<b>Given</b> <b>that a rectangle</b> <b>with length</b> <b>3x</b> <b>inches</b> <b>and width</b> <b>x</b> + <b>5</b> <b>inches</b> <b>has</b> <b>the property</b> <b>that its</b> <b>area</b> <b>and perimeter</b> <b>have</b> <b>equal</b> <b>values</b>, <b>what is X</b>? Guest Oct 20, 2019 +3"
+      }
+    ],
+    [
+      {
+        "query": "What is the area, in square units, of a square whose sides are the same length as the radius of a circle with a circumference of $12\\pi$ units? 36",
+        "match_string": "What is the area in square units of a square whose sides are the same length as the radius of a circle with a circumference of $12\\pi units",
+        "score": 0.9342564535307429,
+        "score_label": 1.0,
+        "name": "View question - <b>Please Help</b>! - Web 2.0 scientific calculator",
+        "url": "https://web2.0calc.com/questions/please-help_43537",
+        "snippet": "<b>What is the area</b>, <b>in square</b> <b>units</b>, <b>of a square</b> <b>whose</b> <b>sides</b> <b>are the same</b> <b>length</b> <b>as the radius</b> <b>of a circle</b> <b>with a circumference</b> <b>of $12\\pi</b>$ <b>units</b>? ... <b>Area</b> of <b>square</b> = l x w = 6 x 6 = <b>36</b> <b>units</b> 2. ElectricPavlov ..."
+      }
+    ],
+    [
+      {
+        "query": "How many positive and negative integers is $12$ a multiple of? 12",
+        "match_string": "12 positive negative 12 12 How many positive and negative integers is a multiple",
+        "score": 0.7668240850059032,
+        "score_label": 1.0,
+        "name": "<b>How many positive and negative integers is $12</b>$ <b>a multiple</b> of?",
+        "url": "https://web2.0calc.com/questions/how-many-positive-and-negative-integers-is-12-a-multiple-of",
+        "snippet": "+1 <b>12</b>=2^2*3^1 --&gt; has (2+1) (1+1)=3*2=6 factors, in <b>positive</b>. By symettry, this is the same for <b>negative</b>. So 6+6= <b>12</b>. thedudemanguyperson Sep <b>12</b>, 2020 Post New Answer 4 Online Users <b>How many positive and negative integers is</b> <b>a multiple</b> of? 16 doesnent work"
+      },
+      {
+        "query": "How many positive and negative integers is $12$ a multiple of? 12",
+        "match_string": "How many positive and negative integers is $12 a multiple How many positive and negative integers a multiple",
+        "score": 0.7488193624557261,
+        "score_label": 1.0,
+        "name": "All Questions - Web 2.0 scientific calculator",
+        "url": "https://web2.0calc.com/questions/page/7077",
+        "snippet": "The sum of four consecutive even <b>integers</b> is -<b>12</b>. Find the largest number. a) x = 0 b) ... <b>How many</b> <b>positive</b> <b>and negative</b> <b>integers</b> <b>is $12</b>$ <b>a multiple</b> of? <b>How many</b> <b>positive</b> <b>and negative</b> <b>integers</b> is <b>a multiple</b> of? 16 doesnent work ..."
+      }
+    ],
+    [
+      {
+        "query": "A programmer is writing a program that is intended to be able to process large amounts of data. Which of the following considerations is LEAST likely to affect the ability of the program to process larger data sets? How many programming statements the program contains",
+        "match_string": "A programmer is writing a program that is intended to be able to process large amounts of data Which of the following considerations is LEAST likely to affect the ability of the program to process larger data sets",
+        "score": 0.8388350261618959,
+        "score_label": 0.42857142857142855,
+        "name": "Quiz Part 1 - 10.24.19 Flashcards | <b>Quizlet</b>",
+        "url": "https://quizlet.com/446376044/quiz-part-1-102419-flash-cards/",
+        "snippet": "The manufacturer can present simulation software to customers to demonstrate different design possibilities., <b>A programmer</b> <b>is writing</b> <b>a program</b> <b>that is intended</b> <b>to be able</b> <b>to process</b> <b>large</b> <b>amounts</b> <b>of data</b>. <b>Which of the following</b> <b>considerations</b> <b>is LEAST</b> <b>likely</b> <b>to affect</b> <b>the ability</b> <b>of the program</b> <b>to process</b> <b>larger</b> <b>data</b> <b>sets</b>? and more."
+      }
+    ],
+    [
+      {
+        "query": "A large Java program was tested extensively, and no errors were found. What can be concluded? The program may have bugs.",
+        "match_string": "A large Java program was tested extensively and no errors were found What can be concluded The program may have bugs tested",
+        "score": 0.9985422740524781,
+        "score_label": 1.0,
+        "name": "<b>APCSA</b> 易错点整理 | AZ",
+        "url": "https://apollozhu.github.io/2017/03/20/apcsa-traps/",
+        "snippet": "Q: <b>A large</b> <b>Java</b> <b>program</b> <b>was tested</b> <b>extensively</b>, <b>and no</b> <b>errors</b> <b>were</b> <b>found</b>. <b>What can</b> <b>be concluded</b>? A: <b>The program</b> <b>may</b> <b>have</b> <b>bugs</b>. Even after you <b>tested</b> – values from each range all boundary values values outside boundaries 读完 pre/post-condition 这个要是读漏或者读错整个题都会错啊！ 而且很多时候可以简化代码，不用考虑那么全面。 不要杞人忧天 如果你是个非要用空格或是制表符的强迫症患者，这条一定要记住。"
+      }
+    ],
+    [
+      {
+        "query": "Which of the following activities poses the greatest personal cybersecurity risk? Reserving a hotel room by e~mailing a credit card number to a hotel",
+        "match_string": "Which of the following activities poses the greatest personal cybersecurity risk credit card Reserving a hotel room by e-mailing a credit card number to a hotel",
+        "score": 0.9572700063011973,
+        "score_label": 0.9230769230769231,
+        "name": "Practice exam questions (6) | project1165",
+        "url": "https://project1165.wordpress.com/2017/04/04/practice-exam-questions-6/",
+        "snippet": "7. <b>Which of the following</b> <b>activities</b> <b>poses</b> <b>the greatest</b> <b>personal</b> <b>cybersecurity</b> <b>risk</b>? (A) Making a purchase at an online store that uses public key encryption to transmit <b>credit</b> <b>card</b> information (B) Paying a bill using a secure electronic payment system (C) <b>Reserving</b> <b>a hotel</b> <b>room</b> <b>by e-mailing</b> <b>a credit</b> <b>card</b> <b>number</b> <b>to a hotel</b> (D)…"
+      },
+      {
+        "query": "Which of the following activities poses the greatest personal cybersecurity risk? Reserving a hotel room by e~mailing a credit card number to a hotel",
+        "match_string": "Which of the following activities poses the greatest personal cybersecurity risk credit card Reserving a hotel room by e-mailing a credit card number to a hotel",
+        "score": 0.9572700063011973,
+        "score_label": 0.9230769230769231,
+        "name": "Practice Exam (7-12) – tonyk998",
+        "url": "https://tonyk998.wordpress.com/2017/04/03/practice-exam-7-12/",
+        "snippet": "7. <b>Which of the following</b> <b>activities</b> <b>poses</b> <b>the greatest</b> <b>personal</b> <b>cybersecurity</b> <b>risk</b>? (A) Making a purchase at an online store that uses public key encryption to transmit <b>credit</b> <b>card</b> information (B) Paying a bill using a secure electronic payment system (C) <b>Reserving</b> <b>a hotel</b> <b>room</b> <b>by e-mailing</b> <b>a credit</b> <b>card</b> <b>number</b> <b>to a hotel</b> (D)…"
+      }
+    ],
+    [
+      {
+        "query": "Which of the following is usually NOT represented in a subroutine's activation record frame for a stack-based programming language? A heap area",
+        "match_string": "Which of the following NOT represented in a subroutine’s activation record frame for a stack-based programming language Heap area",
+        "score": 0.7952547272070336,
+        "score_label": 1.0,
+        "name": "ISRO | ISRO CS 2014 | Question 51 - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/isro-isro-cs-2014-question-51/",
+        "snippet": "<b>Which of the following</b> is <b>NOT</b> <b>represented</b> <b>in a subroutine’s</b> <b>activation</b> <b>record</b> <b>frame</b> <b>for a stack-based</b> <b>programming</b> <b>language</b>? (A) Values of local variables (B) Return address (C) <b>Heap</b> <b>area</b> (D) Information needed to access non local variables Answer: (C)"
+      }
+    ],
+    [
+      {
+        "query": "Of the following, which best characterizes computers that use memory-mapped I/O? I/O ports are placed at addresses on the bus and are accessed just like other memory locations.",
+        "match_string": "Of the following which best characterizes computers that use memory-mapped I/O I/O ports I/O ports are placed at addresses on the bus and are accessed just like other memory locations",
+        "score": 0.9993850218658892,
+        "score_label": 1.0,
+        "name": "CO and Architecture: <b>ISRO2018-65</b> - GATE Overflow for GATE CSE",
+        "url": "https://gateoverflow.in/213523/isro2018-65",
+        "snippet": "<b>Of the following</b>, <b>which best</b> <b>characterizes</b> <b>computers</b> <b>that use</b> <b>memory-mapped</b> <b>I/O</b>? The computer provides special instructions for manipulating <b>I/O</b> <b>ports</b> <b>I/O</b> <b>ports</b> <b>are placed</b> <b>at addresses</b> <b>on the bus</b> <b>and are accessed</b> <b>just</b> <b>like</b> <b>other</b> <b>memory</b> <b>locations</b>"
+      }
+    ],
+    [
+      {
+        "query": "In multiprogrammed systems it is advantageous if some programs such as editors and compilers can be shared by several users. Which of the following must be true of multiprogrammed systems in order that a single copy of a program can be shared by several users?\nI. The program is a macro.\nII. The program is recursive.\nIII. The program is reentrant. III only",
+        "match_string": "In multi-programmed systems it is advantageous if some programs such as editors compilers can be shared by several users Which of the following must be true of multi-programmed systems in order that a single copy of a program can be shared by several users The program is a macro The program is recursive The program is reentrant",
+        "score": 0.8721159648432376,
+        "score_label": 0.0,
+        "name": "Operating System: <b>ISRO2018-67</b> - GATE Overflow for GATE CSE",
+        "url": "https://gateoverflow.in/213520/isro2018-67",
+        "snippet": "<b>In multi-programmed</b> <b>systems</b>, <b>it is advantageous</b> <b>if some</b> <b>programs</b> <b>such</b> <b>as editors</b> anf <b>compilers</b> <b>can</b> <b>be shared</b> <b>by several</b> <b>users</b>. <b>Which of the following</b> <b>must</b> <b>be true</b> <b>of multi-programmed</b> <b>systems</b> <b>in order</b> <b>that a single</b> <b>copy</b> <b>of a program</b> <b>can</b> <b>be shared</b> <b>by several</b> <b>users</b>? <b>The program</b> <b>is a macro</b>; <b>The program</b> <b>is recursive</b> ; <b>The program</b> <b>is reentrant</b>; I ..."
+      }
+    ],
+    [
+      {
+        "query": "A starvation-free job-scheduling policy guarantees that no job waits indefinitely for service. Which of the following job-scheduling policies is starvation-free? Round-robin",
+        "match_string": "indefinitely starvation free job-scheduling policy guarantees that no job waits indefinitely for service Which of the following job-scheduling policies is starvation free Round – robin job job",
+        "score": 0.807299390344373,
+        "score_label": 0.0,
+        "name": "Operating System: TIFR CSE 2020 | Part B | Question: 8",
+        "url": "https://gateoverflow.in/333128/tifr-cse-2020-part-b-question-8",
+        "snippet": "New jobs may arrive while some earlier jobs are running. Some jobs may keep running <b>indefinitely</b>. A $\\textsf{<b>starvation free</b>}$ <b>job-scheduling</b> <b>policy</b> <b>guarantees</b> <b>that no</b> <b>job</b> <b>waits</b> <b>indefinitely</b> <b>for service</b>. <b>Which of the following</b> <b>job-scheduling</b> <b>policies</b> <b>is starvation free</b>? <b>Round – robin</b>; Shortest <b>job</b> first; Priority queuing; Latest <b>job</b> first ..."
+      }
+    ],
+    [
+      {
+        "query": "A null type instrument as compared to a deflected type instrument has a higher accuracy.",
+        "match_string": "A null type instrument as compared to a deflected type instrument has a higher accuracy null type instrument null",
+        "score": 0.968,
+        "score_label": 1.0,
+        "name": "FPSC Assistant Executive Engineer (Electrical) 02 Aug, 2019",
+        "url": "https://www.scribd.com/document/428464100/FPSC-Assistant-Executive-Engineer-Electrical-02-Aug-2019",
+        "snippet": "<b>A null</b> <b>type</b> <b>instrument</b> <b>as compared</b> <b>to a deflected</b> <b>type</b> <b>instrument</b> <b>has</b>. A) a lower sensitivity. B) <b>a higher</b> <b>accuracy</b>. C) a faster response. D) all of the above. Explanation: In <b>null</b> <b>type</b> <b>instrument</b>, a zero or <b>null</b> indication leads to determination of the magnitude of measured quantity."
+      }
+    ],
+    [
+      {
+        "query": "Susceptibility is negative for diamagnetic substances.",
+        "match_string": "Diamagnetic substance susceptibility is negative susceptibility",
+        "score": 0.7433333333333334,
+        "score_label": 1.0,
+        "name": "Explaining the reason behind the <b>negative</b> <b>susceptibility</b> of <b>diamagnetic</b> ...",
+        "url": "https://physics.stackexchange.com/questions/562459/explaining-the-reason-behind-the-negative-susceptibility-of-diamagnetic-material",
+        "snippet": "<b>Diamagnetic</b> <b>substance</b> are those which repel magnetic field and henceforth its <b>susceptibility</b> <b>is negative</b>. But for paramagnetic which are weaker than ferromagnetic but still attracting the magnetic field lines into it have positive value of magnetic <b>susceptibility</b> ."
+      }
+    ],
+    [
+      {
+        "query": "A large class is to be divided into teams and each student must be a member of exactly one team. However, each student dislikes three of their classmates. Dislike between students need not be mutual. If the teams do not need to be equally sized, how many must be created so that no student is the teammate of someone they dislike? 7",
+        "match_string": "class is to be divided into teams and each student class must be a member of exactly one team However each student dislikes three of their classmates dislike between students need not be mutual How many teams must be created so that no student is the teammate of someone they dislike",
+        "score": 0.7955645161290322,
+        "score_label": 0.0,
+        "name": "graph theory - <b>Combinatorics- Dividing students into teams</b> ...",
+        "url": "https://math.stackexchange.com/questions/2969002/combinatorics-dividing-students-into-teams",
+        "snippet": "A <b>class</b> of 37 <b>is to be divided</b> <b>into</b> <b>teams</b>, <b>and each</b> <b>student</b> in the <b>class</b> <b>must</b> <b>be a member</b> <b>of exactly</b> <b>one</b> <b>team</b>. <b>However</b>, <b>each</b> <b>student</b> <b>dislikes</b> <b>three</b> <b>of their</b> <b>classmates</b>. The <b>dislike</b> <b>between</b> <b>students</b> <b>need</b> <b>not</b> <b>be mutual</b>. <b>How many</b> <b>teams</b> <b>must</b> <b>be created</b> <b>so</b> <b>that no</b> <b>student</b> <b>is the teammate</b> <b>of someone</b> <b>they</b> <b>dislike</b>?"
+      }
+    ],
+    [
+      {
+        "query": "If A is a subset of the real line R and A contains each rational number, which of the following must be true? If A is closed, then A = R.",
+        "match_string": "subset of the real line R R contains each rational number which of the following must be true then A = R A = R closed then A =R A = R then A =R A = R then then closed",
+        "score": 0.8148501622447032,
+        "score_label": 0.75,
+        "name": "<b>If $A$ is a subset</b> <b>of the real</b> <b>line</b> $\\\\mathbb <b>R</b>$ <b>and $A$ contains</b> <b>each</b> ...",
+        "url": "https://math.stackexchange.com/questions/2349307/if-a-is-a-subset-of-the-real-line-mathbb-r-and-a-contains-each-rational-n",
+        "snippet": "If A A is a <b>subset</b> <b>of the real</b> <b>line</b> <b>R</b> <b>R</b> and A A <b>contains</b> <b>each</b> <b>rational</b> <b>number</b>, <b>which of the following</b> <b>must</b> <b>be true</b>? (A) If A A is open, <b>then</b> <b>A = R</b> <b>A = R</b> (B) If A A is <b>closed</b>, <b>then</b> <b>A =R</b> <b>A = R</b>. (C) If A A is uncountable, <b>then</b> <b>A =R</b> <b>A = R</b>. (D) If A A is uncountable, <b>then</b> A A is open. (E) If A A is countable, <b>then</b> A A is <b>closed</b>. Solution."
+      },
+      {
+        "query": "If A is a subset of the real line R and A contains each rational number, which of the following must be true? If A is closed, then A = R.",
+        "match_string": "subset of the real line R R contains each rational number which of the following must be true then A =R A = R closed then A = R A = R then A =R A = R then then closed",
+        "score": 0.8148501622447032,
+        "score_label": 0.75,
+        "name": "general topology - <b>If $A$ is a subset</b> <b>of the real</b> <b>line</b> $\\mathbb <b>R</b>$ and ...",
+        "url": "https://math.stackexchange.com/questions/3796659/if-a-is-a-subset-of-the-real-line-mathbb-r-and-mathbb-q-subseteq-a-whic",
+        "snippet": "1 If A A is a <b>subset</b> <b>of the real</b> <b>line</b> <b>R</b> <b>R</b> and A A <b>contains</b> <b>each</b> <b>rational</b> <b>number</b>, <b>which of the following</b> <b>must</b> <b>be true</b>? (a) If A A is open, <b>then</b> <b>A =R</b> <b>A = R</b>. (b) If A A is <b>closed</b>, <b>then</b> <b>A = R</b> <b>A = R</b>. (c) If A A is uncountable, <b>then</b> <b>A =R</b> <b>A = R</b>. (d) If A A is uncountable, <b>then</b> A A is open. (e) If A A is countable, <b>then</b> A A is <b>closed</b>. My Approach:"
+      }
+    ],
+    [
+      {
+        "query": "Which of the following circles has the greatest number of points of intersection with the parabola x^2 = y + 4 ? x^2 + y^2 = 9",
+        "match_string": "Which of the following circles has the greatest number of points of intersection with the parabola y 4 x 2 y 4 x 2 y 2 2 x 2 y 2 2 9 x 2 y 2 9 x 2 y 2 x 2 y 2",
+        "score": 0.7273598977200085,
+        "score_label": 0.2,
+        "name": "<b>Which of the following</b> <b>circles</b> <b>has</b> <b>the greatest</b> <b>number</b> <b>of points</b> of ...",
+        "url": "https://math.stackexchange.com/questions/2227662/which-of-the-following-circles-has-the-greatest-number-of-points-of-intersection",
+        "snippet": "<b>Which of the following</b> <b>circles</b> <b>has</b> <b>the greatest</b> <b>number</b> <b>of points</b> <b>of intersection</b> <b>with the parabola</b> x2 = <b>y</b> + <b>4</b> <b>x 2</b> = <b>y</b> + <b>4</b>? (A) x2 +y2 = 1 <b>x 2</b> + <b>y 2</b> = 1 (B) x2 +y2 = <b>2</b> <b>x 2</b> + <b>y 2</b> = <b>2</b> (C) x2 +y2 = <b>9</b> <b>x 2</b> + <b>y 2</b> = <b>9</b> (D) x2 +y2 = 16 <b>x 2</b> + <b>y 2</b> = 16 (E) x2 +y2 = 25 <b>x 2</b> + <b>y 2</b> = 25"
+      }
+    ],
+    [
+      {
+        "query": "When the data must arrive at the receiver exactly as they were sent, its called Message Integrity",
+        "match_string": "Message integrity data must arrive at the receiver exactly as they were sent Message receiver message",
+        "score": 0.7429516185172295,
+        "score_label": 1.0,
+        "name": "<b>Consider the following statements with respect to</b> network ... - Eduncle",
+        "url": "https://scoop.eduncle.com/consider-the-following-statements-with-respect-to-network-security",
+        "snippet": "(b) <b>Message</b> <b>integrity</b> means that the <b>data</b> <b>must</b> <b>arrive</b> <b>at the receiver</b> <b>exactly</b> <b>as they</b> <b>were</b> <b>sent</b>. (c) <b>Message</b> authentication means the <b>receiver</b> is ensured that the <b>message</b> is coming from the intended sender. Which of the statement is (are) correct? Choose Your Answer: A Only (a) and (b) B Only (a) and (c) C Only (b) and (c) D (a), (b) and (c)"
+      }
+    ],
+    [
+      {
+        "query": "Which of the following is NOT included in GDP? Imports.",
+        "match_string": "Which of the following not included GDP imports Which of the following GDP",
+        "score": 0.75,
+        "score_label": 1.0,
+        "name": "<b>Key measures of economic performance</b> - <b>Economics Help</b>",
+        "url": "https://www.economicshelp.org/blog/10189/economics/key-measures-economic-performance/",
+        "snippet": "<b>Which of the following</b> is <b>not</b> <b>included</b> in <b>GDP</b>? a. capital goods such as machinery b. <b>imports</b> c. the value of domestically produced services d. government purchases of goods and services e. the construction of structures 5. <b>Which of the following</b> components makes up the largest percentage of <b>GDP</b> measured by aggregate spending? a."
+      }
+    ],
+    [
+      {
+        "query": "The Phillips curve represents the relationship between inflation and unemployment.",
+        "match_string": "The Phillips Curve the relationship between inflation and unemployment Curve unemployment inflation",
+        "score": 0.7666666666666667,
+        "score_label": 1.0,
+        "name": "<b>Jobs, Inflation And The Phillips Curve</b> : Planet Money : NPR",
+        "url": "https://www.npr.org/sections/money/2019/01/07/683039249/jobs-inflation-and-the-phillips-curve",
+        "snippet": "<b>The Phillips</b> <b>Curve</b> measures <b>the relationship</b> <b>between</b> <b>inflation</b> <b>and unemployment</b>. And the <b>Curve</b> predicts that when <b>unemployment</b> is low, <b>inflation</b> tends to rise. Conversely, If..."
+      },
+      {
+        "query": "The Phillips curve represents the relationship between inflation and unemployment.",
+        "match_string": "relationship between inflation and unemployment the Phillips curve",
+        "score": 0.77890625,
+        "score_label": 1.0,
+        "name": "Is <b>the Phillips Curve</b> Still Alive? | St. Louis Fed",
+        "url": "https://research.stlouisfed.org/publications/review/2020/05/01/is-the-phillips-curve-still-alive",
+        "snippet": "We find that in the very short run, there is no systemic <b>relationship</b> <b>between</b> <b>inflation</b> <b>and unemployment</b>; in the intermediate run, which includes the business cycle frequency, they are strongly negatively correlated; and in the very long run <b>the Phillips curve</b> is strongly positively sloped."
+      }
+    ],
+    [
+      {
+        "query": "Why did the solar nebula heat up as it collapsed? As the cloud shrank its gravitational potential energy was converted to kinetic energy and then into thermal energy.",
+        "match_string": "As the cloud shrank its gravitational potential energy was converted to kinetic energy and then into thermal energy Why did the solar nebula into nebula into",
+        "score": 0.7968201458277072,
+        "score_label": 1.0,
+        "name": "<b>Quiz 9</b> Flashcards | <b>Quizlet</b>",
+        "url": "https://quizlet.com/32363666/quiz-9-flash-cards/",
+        "snippet": "<b>As the cloud</b> <b>shrank</b>, <b>its</b> <b>gravitational</b> <b>potential</b> <b>energy</b> <b>was converted</b> <b>to kinetic</b> <b>energy</b> <b>and then</b> <b>into</b> <b>thermal</b> <b>energy</b>. <b>Why</b> <b>did</b> <b>the solar</b> <b>nebula</b> flatten <b>into</b> a disk? It flattened as a natural consequence of collisions between particles in the <b>nebula</b>, changing random motions <b>into</b> more orderly ones."
+      }
+    ],
+    [
+      {
+        "query": "Considering 0.1 M aqueous solutions of each of the following, which solution has the lowest pH? NaCl",
+        "match_string": "considering 0.1 M aqueous solutions of each of the following which solution has the lowest pH NaCl",
+        "score": 0.999898229187869,
+        "score_label": 1.0,
+        "name": "<b>considering 0.1 M aqueous solutions</b> <b>of each</b> <b>of the following</b> which ...",
+        "url": "https://brainly.in/question/20159599",
+        "snippet": "<b>considering 0.1 M aqueous solutions</b> <b>of each</b> <b>of the following which solution has the lowest</b> <b>pH</b>? a) Na2CO3. b) Na3PO4. c) Na2S. d) <b>NaCl</b> e) CH3COONa - 20159599"
+      }
+    ],
+    [
+      {
+        "query": "Old-fashioned steam engines were powered by coal transferred from the tender to the engine by human stokers using a shovel. What is the maximum power such an engine could attain? 6*10^5 W",
+        "match_string": "Old-fashioned steam engines were powered by coal transferred from the tender to the engine by human stokers using a shovel What is the maximum power such",
+        "score": 0.7641185172293768,
+        "score_label": 0.0,
+        "name": "Question 1: I’m stoked!; Question 2: Geckos | The Physics Teacher | AIP ...",
+        "url": "https://pubs.aip.org/aapt/pte/article/57/3/200/1019256/Question-1-I-m-stoked-Question-2-Geckos",
+        "snippet": "<b>Old-fashioned</b> <b>steam</b> <b>engines</b> <b>were</b> <b>powered</b> <b>by coal</b> <b>transferred</b> <b>from the tender</b> <b>to the engine</b> <b>by human</b> <b>stokers</b> <b>using</b> <b>a shovel</b>. <b>What is the maximum</b> <b>power</b> <b>such</b> an en"
+      }
+    ],
+    [
+      {
+        "query": "Force equals mass times what? Acceleration",
+        "match_string": "Force equals mass times acceleration Force Force force",
+        "score": 0.7433333333333334,
+        "score_label": 1.0,
+        "name": "What is <b>the Relationship Between</b> <b>Force</b> <b>Mass</b> And <b>Acceleration</b>?",
+        "url": "https://sciencing.com/what-is-the-relationship-between-force-mass-and-acceleration-13710471.html",
+        "snippet": "<b>Force</b> <b>equals</b> <b>mass</b> <b>times</b> <b>acceleration</b> or f = ma. Meaning of <b>Force</b>. <b>Force</b> is a physical quantity you deal with in everyday life. It takes <b>force</b> to open a door, lift a child, or crack an egg. It is a pull or push exerted by one object on another; the objects can be anything from protons and electrons all the way up to planets and galaxies. The ..."
+      },
+      {
+        "query": "Force equals mass times what? Acceleration",
+        "match_string": "mass force equals mass times acceleration equation force acceleration",
+        "score": 0.7433333333333334,
+        "score_label": 1.0,
+        "name": "Understanding the Concept of <b>Acceleration</b> - Interesting Engineering",
+        "url": "https://interestingengineering.com/science/understanding-the-concept-of-acceleration",
+        "snippet": "For a constant <b>mass</b>, <b>force</b> <b>equals</b> <b>mass</b> <b>times</b> <b>acceleration</b>.” Mathematically, the <b>equation</b> is F=ma, which implies that a=F/m. Thus, the higher the <b>force</b>, the higher the <b>acceleration</b>; the higher ..."
+      }
+    ],
+    [
+      {
+        "query": "Who is an archenemy of the cartoon superhero Underdog? OverCat",
+        "match_string": "Who is an archenemy of the cartoon superhero Underdog Underdog Underdog cartoon",
+        "score": 0.8604938271604939,
+        "score_label": 0.0,
+        "name": "What was underdogs name? – AnswersAll",
+        "url": "https://answer-all.com/miscellaneous/what-was-underdogs-name/",
+        "snippet": "<b>Who is an archenemy</b> <b>of the cartoon</b> <b>superhero</b> <b>Underdog</b>? Rogues Gallery: For most of the show’s run, <b>Underdog</b> had exactly two recurring enemies: Simon Bar Sinister and Riff Raff. What was the name of <b>Underdog</b> <b>cartoon</b> girlfriend? Sweet Polly Purebred"
+      }
+    ],
+    [
+      {
+        "query": "Which dwarf planet is closest to the Sun? Ceres",
+        "match_string": "Ceres closest dwarf planet to the Sun Ceres Dwarf Planet Ceres",
+        "score": 0.7052154195011338,
+        "score_label": 1.0,
+        "name": "Fun <b>Facts About Ceres The Largest Asteroid &amp; A Dwarf Planet</b>",
+        "url": "http://www.spaceopedia.com/solar-system/planets/minor-planets/ceres/",
+        "snippet": "<b>Ceres</b> is the largest object in the main Asteroid Belt and the <b>closest</b> <b>dwarf</b> <b>planet</b> <b>to the Sun</b>! <b>Ceres</b> is also considered to be by far the smallest object in the solar system that is in hydrostatic equilibrium (rounded by gravity)! Fast Summary Facts About The <b>Dwarf</b> <b>Planet</b> <b>Ceres</b>! Discovered: January 1 st, 1801 by Giuseppe Piazzi; Name Origin ..."
+      },
+      {
+        "query": "Which dwarf planet is closest to the Sun? Ceres",
+        "match_string": "Ceres closest dwarf planet to the Sun Ceres dwarf planet",
+        "score": 0.7471655328798186,
+        "score_label": 1.0,
+        "name": "<b>Ceres - JPL Travel Poster</b>",
+        "url": "https://www.jpl.nasa.gov/images/ceres-jpl-travel-poster",
+        "snippet": "<b>Ceres</b> is the <b>closest</b> <b>dwarf</b> <b>planet</b> <b>to the Sun</b>. It is the largest object in the main asteroid belt between Mars and Jupiter, with an equatorial diameter of about 965 kilometers. After being studied with telescopes for more than two centuries, <b>Ceres</b> became the first <b>dwarf</b> <b>planet</b> to be explored by a spacecraft, when NASA&#39;s Dawn probe arrived in ..."
+      }
+    ],
+    [
+      {
+        "query": "What term describes someone who does not believe in the existence of God? atheist",
+        "match_string": "atheist someone who does not believe in the existence god",
+        "score": 0.7046428571428572,
+        "score_label": 1.0,
+        "name": "Word for a <b>person</b> who has no opinion about whether <b>god</b> exists",
+        "url": "https://english.stackexchange.com/questions/489221/word-for-a-person-who-has-no-opinion-about-whether-god-exists",
+        "snippet": "An apatheist is <b>someone</b> who is <b>not</b> interested in accepting or rejecting any claims that gods exist or <b>do</b> <b>not</b> exist. The <b>existence</b> <b>of god</b>(s) is <b>not</b> rejected, but may be designated irrelevant. ... Nontheism <b>does</b> <b>not</b> necessarily <b>describe</b> atheism or ... <b>atheist</b>: <b>someone</b> <b>who does</b> <b>not</b> <b>believe</b> <b>in the existence</b> of a <b>god</b> or other divine beings and ..."
+      }
+    ],
+    [
+      {
+        "query": "Where did the Exxon Valdez run aground in March of 1989? Prince William Sound",
+        "match_string": "March 1989 Prince William Sound the Exxon Valdez run aground",
+        "score": 0.7046428571428572,
+        "score_label": 1.0,
+        "name": "Thirty years after <b>Exxon</b> <b>Valdez</b>, the response to oil spills is still ...",
+        "url": "https://www.theguardian.com/commentisfree/2019/mar/26/thirty-years-after-exxon-valdez-the-response-to-oil-spills-is-still-all-wrong",
+        "snippet": "T hirty years ago, on 24 <b>March</b> <b>1989</b>, communities in <b>Prince</b> <b>William</b> <b>Sound</b>, Alaska, awoke to horrific news: <b>the Exxon</b> <b>Valdez</b>, an oil tanker, had <b>run</b> <b>aground</b> and leaked 11m gallons..."
+      }
+    ],
+    [
+      {
+        "query": "Who was the first American in space? Alan Shepard",
+        "match_string": "Alan Shepard the first American in space Shepard space",
+        "score": 0.7052154195011338,
+        "score_label": 1.0,
+        "name": "<b>Mission Monday: Five fast facts about the first American in space</b>",
+        "url": "https://spacecenter.org/mission-monday-five-fast-facts-about-the-first-american-in-space/",
+        "snippet": "May 4, 2020 On May 5, 1961, NASA astronaut <b>Alan</b> <b>Shepard</b> Jr. became <b>the first American in space</b>. 59 years ago, <b>Shepard</b> launched into <b>space</b> inside his Freedom 7 capsule. The sub-orbital flight lasted just over 15 minutes, traveled greater than 300 miles, and climbed to an altitude of over 116 miles above the Earth."
+      }
+    ],
+    [
+      {
+        "query": "What is Andromeda? The nearest major galaxy to the Milky Way",
+        "match_string": "Andromeda Galaxy the closest galaxy to the Milky Way",
+        "score": 0.7080965909090909,
+        "score_label": 0.875,
+        "name": "How <b>to Find the Andromeda Constellation</b> - ThoughtCo",
+        "url": "https://www.thoughtco.com/andromeda-constellation-4174709",
+        "snippet": "At 2.5 million light-years, the <b>Andromeda</b> <b>Galaxy</b> is <b>the closest</b> spiral <b>galaxy</b> <b>to the Milky</b> <b>Way</b>. The term &quot;light-year&quot; was invented to handle the immense distances between objects in the universe. Later, &quot;parsec&quot; was developed for truly huge distances. Adam Evans/Wikimedia Commons."
+      },
+      {
+        "query": "What is Andromeda? The nearest major galaxy to the Milky Way",
+        "match_string": "Andromeda Galaxy Andromeda galaxy Andromeda the nearest galaxy to the Milky Way galaxy",
+        "score": 0.7080965909090909,
+        "score_label": 0.875,
+        "name": "NASA SVS | <b>Andromeda</b> <b>Galaxy</b> in Visible and Infrared",
+        "url": "https://svs.gsfc.nasa.gov/30990",
+        "snippet": "<b>Andromeda</b> <b>Galaxy</b> in Visible and Infrared. While <b>Andromeda</b> is a spiral <b>galaxy</b>, its dust falls largely in a huge ring structure, possibly caused by gravitational interactions with its smaller satellite galaxies. <b>Andromeda</b> is <b>the nearest</b> spiral <b>galaxy</b> <b>to the Milky</b> <b>Way</b>, around 2.5 million light-years away. Once thought to be a twin of our <b>galaxy</b> ..."
+      },
+      {
+        "query": "What is Andromeda? The nearest major galaxy to the Milky Way",
+        "match_string": "Andromeda Galaxy the closest galaxy to the Milky Way Andromeda",
+        "score": 0.7080965909090909,
+        "score_label": 0.875,
+        "name": "Messier 31 - Observing <b>Andromeda</b> (M31) - <b>Universe Today</b>",
+        "url": "https://www.universetoday.com/33475/messier-31-andromeda/",
+        "snippet": "One of these objects is the famed <b>Andromeda</b> <b>Galaxy</b>, <b>the closest</b> spiral <b>galaxy</b> <b>to the Milky</b> <b>Way</b> which is named for the area of the sky it appears in (in the vicinity of the <b>Andromeda</b> constellation ..."
+      }
+    ],
+    [
+      {
+        "query": "Maddie will ride her bike a total of 56 miles over 7 days. She will ride the same number of miles each day. What is the total number of miles Maddie will ride each day? 8",
+        "match_string": "Maddie will ride her bike a total of 56 miles over 7 days She will ride the same number of miles each day What is the total number of miles Maddie will ride each day 8 miles each day 56 total miles 7 days 8 miles day",
+        "score": 0.9264939128943759,
+        "score_label": 1.0,
+        "name": "<b>Maddie</b> <b>will ride</b> <b>her</b> <b>bike</b> <b>a total</b> <b>of 56</b> <b>miles</b> <b>over</b> <b>7</b> <b>days</b>. <b>She</b> will ...",
+        "url": "https://brainly.com/question/16292133",
+        "snippet": "answer answered <b>Maddie</b> <b>will ride</b> <b>her</b> <b>bike</b> <b>a total</b> <b>of 56</b> <b>miles</b> <b>over</b> <b>7</b> <b>days</b>. <b>She</b> <b>will ride</b> <b>the same</b> <b>number</b> <b>of miles</b> <b>each</b> <b>day</b>. <b>What is the total</b> <b>number</b> <b>of miles</b> <b>Maddie</b> <b>will ride</b> <b>each</b> <b>day</b>? Advertisement AI-generated answer Answer 1 person found it helpful tylerflorida34638 <b>8</b> <b>miles</b> <b>each</b> <b>day</b>. <b>56</b> <b>total</b> <b>miles</b> / <b>7</b> <b>days</b> = <b>8</b> <b>miles</b> a <b>day</b> arrow right"
+      }
+    ],
+    [
+      {
+        "query": "What expression can be used to show 270,240 written in expanded form? 200,000 + 70,000 + 200 + 40",
+        "match_string": "What expression can be used to show 270,240 in expanded form expanded form 200,000 70,000 200 40 expanded form 200,000 70,000 200 40 270,240",
+        "score": 0.7493567251461988,
+        "score_label": 0.5714285714285714,
+        "name": "<b>What expression</b> <b>can</b> <b>be used</b> <b>to show</b> <b>270,240</b> <b>in expanded</b> <b>form</b>",
+        "url": "https://brainly.com/question/9533024",
+        "snippet": "Mathematics Middle School answered <b>What expression</b> <b>can</b> <b>be used</b> <b>to show</b> <b>270,240</b> <b>in expanded</b> <b>form</b> See answers Advertisement AngelxDevil Hi there! The <b>expanded</b> <b>form</b> would be: <b>200,000</b> + <b>70,000</b> + <b>200</b> + <b>40</b> Hope this helps ;) Thanks Advertisement Liv2560 Hi! The <b>expanded</b> <b>form</b>: <b>200,000</b>+<b>70,000</b>+<b>200</b>+<b>40</b>=<b>270,240</b> Hope this helped"
+      }
+    ],
+    [
+      {
+        "query": "A zoo has 15 toucans and 60 parrots. What is the ratio of the number of toucans to the number of parrots at the zoo? 1:04",
+        "match_string": "A zoo has 15 toucans and 60 parrots. what is the ratio of the Number of toucans to the number of parrots at the zoo 1 a zoo has 15 toucans and 60 parrots",
+        "score": 0.9083692307692308,
+        "score_label": 0.0,
+        "name": "<b>A zoo</b> <b>has</b> <b>15</b> <b>toucans</b> <b>and 60</b> <b>parrots. what is the ratio</b> <b>of the Number</b> of ...",
+        "url": "https://brainly.com/question/13784699",
+        "snippet": "<b>A zoo</b> <b>has</b> <b>15</b> <b>toucans</b> <b>and 60</b> <b>parrots. what is the ratio</b> <b>of the Number</b> <b>of toucans</b> <b>to the number</b> <b>of parrots</b> <b>at the zoo</b>? Expert-Verified Answer 25 people found it helpful ApusApus report flag outlined Answer: <b>1</b>:4 Step-by-step explanation: We have been given that <b>a zoo</b> <b>has</b> <b>15</b> <b>toucans</b> <b>and 60</b> <b>parrots</b>."
+      },
+      {
+        "query": "A zoo has 15 toucans and 60 parrots. What is the ratio of the number of toucans to the number of parrots at the zoo? 1:04",
+        "match_string": "A zoo has 15 toucans and 60 parrots. What is the ratio of the number of toucans to the number of parrots at the zoo 1 1 1 15 15 15 1 60 15",
+        "score": 0.9576923076923077,
+        "score_label": 0.0,
+        "name": "<b>A zoo</b> <b>has</b> <b>15 toucans and 60 parrots. What is the ratio</b> <b>of the number of</b> ...",
+        "url": "https://brainly.com/question/19291407",
+        "snippet": "<b>A zoo</b> <b>has</b> <b>15 toucans and 60 parrots. What is the ratio</b> <b>of the number of toucans</b> <b>to the number of parrots</b> <b>at the zoo</b>? A. <b>1</b>: 4 B. <b>1</b>: 5 C. 4: <b>1</b> D. 4: 5 Advertisement AI-generated answer Answer 4 people found it helpful guavajuice36 Answer: A Step-by-step explanation: Divide both terms by the GCF, <b>15</b>: <b>15</b> ÷ <b>15</b> = <b>1</b> <b>60</b> ÷ <b>15</b> = 4"
+      },
+      {
+        "query": "A zoo has 15 toucans and 60 parrots. What is the ratio of the number of toucans to the number of parrots at the zoo? 1:04",
+        "match_string": "A zoo has 15 toucans and 60 parrots what is the ratio of the Number of toucans to the number of parrots at the zoo what is the ratio of the number to the number",
+        "score": 0.8355076923076923,
+        "score_label": 0.0,
+        "name": "There were 30 cars and 20 trucks in the parking garage. What is the ...",
+        "url": "https://brainly.com/question/20263256",
+        "snippet": "Verified answer <b>A zoo</b> <b>has</b> <b>15</b> <b>toucans</b> <b>and 60</b> <b>parrots</b>. <b>what is the ratio</b> <b>of the Number</b> <b>of toucans</b> <b>to the number</b> <b>of parrots</b> <b>at the zoo</b>? If Simon used 3 pears and 9 apples to make a fruit salad <b>what is the ratio</b> <b>of the number</b> of pears <b>to the number</b> of apples in the fruit salad"
+      }
+    ],
+    [
+      {
+        "query": "Find the LCM of 24 and 36. 72",
+        "match_string": "The LCM of 24 24 72 36 36 72",
+        "score": 0.703125,
+        "score_label": 1.0,
+        "name": "<b>What is the LCM of 24a^3 b and 36ab ^2</b> - brainly.com",
+        "url": "https://brainly.com/question/13064832",
+        "snippet": "<b>The LCM</b> is the number divisible by both numbers, multiples <b>of 24</b> are <b>24</b>,48,<b>72</b> etc <b>36</b> is <b>36</b>,72,108 etc the least I&#39;d <b>72</b>. with exponents it&#39;s the highest exponent because a^3 is a*a*a. arrow right. Explore similar answers. messages. Get this answer verified by an Expert."
+      },
+      {
+        "query": "Find the LCM of 24 and 36. 72",
+        "match_string": "The least common multiple LCM of 24 and 36 24 and 36 72",
+        "score": 0.840561224489796,
+        "score_label": 1.0,
+        "name": "What is <b>the LCM</b> of <b>36</b> <b>24</b> and <b>72</b>? – Sage-Answer",
+        "url": "https://sage-answer.com/what-is-the-lcm-of-36-24-and-72/",
+        "snippet": "How to <b>find</b> <b>the least common multiple</b> of 63 and <b>72</b>? The formula of <b>LCM</b> is <b>LCM</b> (a,b) = ( a × b) / GCF (a,b). We need to calculate greatest common factor 63 and <b>72</b>, than apply into <b>the LCM</b> equation. ... <b>The least common multiple</b> (<b>LCM</b>) <b>of 24</b> <b>and 36</b> is the smallest number which is exactly divisible by <b>24</b> <b>and 36</b>.<b>72</b> is the smallest number which ..."
+      }
+    ],
+    [
+      {
+        "query": "A stack of 7 pennies has a height of 1 centimeter. Nick has a stack of pennies with a height of 4 centimeters. Which equation can be used to find the number of pennies, n, in Nick’s stack of pennies? n =7×4",
+        "match_string": "A stack of \\(7 pennies has a height of \\(1 centimeter Nick has a stack of pennies with a height of \\(4 centimeters Which equation can be used to find the number of pennies n in Nick’s stack of pennies n 7 4 n 7 4 n 7×4 n 7 4 4th Grade ACT Aspire Math",
+        "score": 0.972792418506318,
+        "score_label": 0.5,
+        "name": "10 Most Common <b>4th Grade ACT Aspire Math Questions</b>",
+        "url": "https://www.effortlessmath.com/math-topics/10-most-common-grade-4-act-aspire-math-questions/",
+        "snippet": "10- <b>A stack</b> <b>of \\(7</b>\\) <b>pennies</b> <b>has</b> <b>a height</b> <b>of \\(1</b>\\) <b>centimeter</b>. <b>Nick</b> <b>has</b> <b>a stack</b> <b>of pennies</b> <b>with a height</b> <b>of \\(4</b>\\) <b>centimeters</b>. <b>Which equation</b> <b>can</b> <b>be used</b> <b>to find</b> <b>the number</b> <b>of pennies</b>, \\(<b>n</b>\\), <b>in Nick’s</b> <b>stack</b> <b>of pennies</b>? A.\\(<b>n</b> = <b>7</b> + <b>4</b>\\) B. \\(<b>n</b> = <b>7</b>- <b>4</b>\\) C. \\(<b>n</b> = <b>7×4</b>\\) D. \\(<b>n</b> = <b>7</b> ÷ <b>4</b>\\) Best <b>4th Grade ACT Aspire Math</b> Exercise Resource for 2022"
+      }
+    ],
+    [
+      {
+        "query": "Which ratio CANNOT form a proportion with 8 over 18? 46 over 108",
+        "match_string": "Which ratio cannot form a proportion with 8 18 46 108",
+        "score": 0.8504464285714285,
+        "score_label": 0.6666666666666666,
+        "name": "<b>which ratio</b> <b>cannot</b> <b>form</b> <b>a proportion</b> <b>with 8</b>/<b>18</b> 1. 60/135 2. 12/27 3. <b>46</b> ...",
+        "url": "https://brainly.com/question/10286104",
+        "snippet": "05/25/2018 Mathematics High School answer answered <b>Which ratio</b> <b>cannot</b> <b>form</b> <b>a proportion</b> <b>with 8</b>/<b>18</b> 1. 60/135 2. 12/27 3. <b>46</b>/<b>108</b> 4. 4/9 Advertisement alvarakaleb12 is waiting for your help. Add your answer and earn points. plus Add answer 10 pts AI-generated answer Answer 3 people found it helpful laratunca report flag outlined"
+      }
+    ],
+    [
+      {
+        "query": "Miranda enlarged a picture proportionally. Her original picture is 4 cm wide and 6 cm long. If the new, larger picture is 10 cm wide, what is its length? 15 cm",
+        "match_string": "4 Miranda enlarged a picture proportionally Her original picture wide and 6 cm long If the new larger picture is 10 cm wide what is its length cm cm 15 cm cm 4",
+        "score": 0.949820788530466,
+        "score_label": 1.0,
+        "name": "Whoever does will get brainiest. And extra points - Brainly.com",
+        "url": "https://brainly.com/question/19031871",
+        "snippet": "<b>4</b>. <b>Miranda</b> <b>enlarged</b> <b>a picture</b> <b>proportionally</b>. <b>Her</b> <b>original</b> <b>picture</b> is 4cm <b>wide</b> <b>and 6</b> <b>cm</b> <b>long</b>. <b>If the new</b>, <b>larger</b> <b>picture</b> <b>is 10</b> <b>cm</b> <b>wide</b>, <b>what is its</b> <b>length</b>? * 1 point 8 <b>cm</b> 12 <b>cm</b> <b>15</b> <b>cm</b> 20 <b>cm</b> 5. The practice range at a golf course charges $<b>4</b>.00 for a bucket of 40 golf balls. At this rate, how much will a bucket of 100 golf balls cost? * 1 point ..."
+      }
+    ],
+    [
+      {
+        "query": "Stephanie flew 2,448 miles from Los Angeles to New York City. What is the number of miles Stephanie flew rounded to the nearest thousand? 2,000",
+        "match_string": "flew 2,448 miles from Los Angeles to New York City What is the number of miles flew rounded to the nearest thousand 2,000",
+        "score": 0.9196975425330813,
+        "score_label": 1.0,
+        "name": "4th Grade MAP Math FREE Sample Practice Questions",
+        "url": "https://www.effortlessmath.com/math-topics/map-grade-4-math-free-sample-practice-questions/",
+        "snippet": "4- Sophia <b>flew</b> <b>2,448</b> <b>miles</b> <b>from Los</b> <b>Angeles</b> <b>to New</b> <b>York</b> <b>City</b>. <b>What is the number</b> <b>of miles</b> Sophia <b>flew</b> <b>rounded</b> <b>to the nearest</b> <b>thousand</b>? A. <b>2,000</b> B. 2,400 C. 2,500"
+      },
+      {
+        "query": "Stephanie flew 2,448 miles from Los Angeles to New York City. What is the number of miles Stephanie flew rounded to the nearest thousand? 2,000",
+        "match_string": "flew 2,448 miles from Los Angeles to New York City What is the number of miles flew rounded to the nearest thousand 2000 number",
+        "score": 0.8773553719008265,
+        "score_label": 0.0,
+        "name": "<b>4th Grade Common Core Math Practice</b> Test Questions",
+        "url": "https://www.effortlessmath.com/math-topics/common-core-math-grade-4-practice-test-questions/",
+        "snippet": "4- Sophia <b>flew</b> <b>2,448</b> <b>miles</b> <b>from Los</b> <b>Angeles</b> <b>to New</b> <b>York</b> <b>City</b>. <b>What is the number</b> <b>of miles</b> Sophia <b>flew</b> <b>rounded</b> <b>to the nearest</b> <b>thousand</b>? A. <b>2000</b> B. 2400 C. 2500 D. 3000 5- Write \\ (\\frac {124} {1000}\\) as a decimal <b>number</b>. A. 1.24"
+      },
+      {
+        "query": "Stephanie flew 2,448 miles from Los Angeles to New York City. What is the number of miles Stephanie flew rounded to the nearest thousand? 2,000",
+        "match_string": "flew 2,448 miles from Los Angeles to New York City What is the number of miles flew rounded to the nearest thousand 2,000",
+        "score": 0.9196975425330813,
+        "score_label": 1.0,
+        "name": "4th Grade Common Core <b>Math FREE Sample Practice Questions</b>",
+        "url": "https://www.effortlessmath.com/math-topics/common-core-grade-4-math-free-sample-practice-questions/",
+        "snippet": "4- Sophia <b>flew</b> <b>2,448</b> <b>miles</b> <b>from Los</b> <b>Angeles</b> <b>to New</b> <b>York</b> <b>City</b>. <b>What is the number</b> <b>of miles</b> Sophia <b>flew</b> <b>rounded</b> <b>to the nearest</b> <b>thousand</b>? A. <b>2,000</b>"
+      }
+    ],
+    [
+      {
+        "query": "A student has 3 puzzles. Each puzzle has 1,250 pieces. What is the total number of pieces in the puzzles? 3,750",
+        "match_string": "student has puzzles each puzzle has 1250 pieces what is the total number of pieces in the puzzles",
+        "score": 0.807299390344373,
+        "score_label": 0.0,
+        "name": "<b>HELP PLEASE</b>: On a coordinate plane, a rectangle is shown. It <b>has</b> points ...",
+        "url": "https://istudy-helper.com/mathematics/question16042435",
+        "snippet": "The <b>student</b> <b>has</b> three <b>puzzles</b> <b>each</b> <b>puzzle</b> <b>has</b> <b>1250</b> <b>pieces</b> <b>what is the total</b> <b>number</b> <b>of pieces</b> <b>in the puzzles</b>... Answer. Biology, 08.12.2019 00:31. Which of the following is a way in which earth material is returned to the surface? a. a volcanic eruption b. melting from pressure and heat c. weath..."
+      }
+    ],
+    [
+      {
+        "query": "Kate has a coin collection. She keeps 7 of the coins in a box, which is only 5% of her entire collection. What is the total number of coins in Kate’s coin collection? 140",
+        "match_string": "Kate has a coin collection.She keeps 7 of the coins in a box which is only 5% of her entire collection What is the total number of coins in Kate&#39;s coin collection 140 coins",
+        "score": 0.9149092864490789,
+        "score_label": 1.0,
+        "name": "<b>Kate has a coin collection.She keeps 7</b> <b>of the coins</b> <b>in a box</b>, which is ...",
+        "url": "https://brainly.in/question/17157980",
+        "snippet": "<b>Kate has a coin collection.She keeps 7</b> <b>of the coins</b> <b>in a box</b>, <b>which is only</b> <b>5%</b> <b>of her</b> <b>entire</b> <b>collection</b>. <b>What is the total</b> <b>number</b> <b>of coins</b> <b>in Kate&#39;s</b> <b>coin</b> <b>collection</b>? See answers Advertisement Advertisement mhanifa mhanifa Answer: <b>140</b> <b>coins</b>."
+      },
+      {
+        "query": "Kate has a coin collection. She keeps 7 of the coins in a box, which is only 5% of her entire collection. What is the total number of coins in Kate’s coin collection? 140",
+        "match_string": "Kate has a coin collection She keeps 7 of the coins in a box which is only 5% of her entire collection What is the total number of coins in Kate&#39;s coin collection",
+        "score": 0.9458576944291229,
+        "score_label": 0.0,
+        "name": "<b>Kate</b> <b>has</b> <b>a coin</b> <b>collection</b>. <b>She</b> <b>keeps</b> <b>7</b> <b>of the coins</b> <b>in a box</b>, which is ...",
+        "url": "https://e-eduanswers.com/mathematics/question513082034",
+        "snippet": "👍 Correct answer to the question <b>Kate</b> <b>has</b> <b>a coin</b> <b>collection</b>. <b>She</b> <b>keeps</b> <b>7</b> <b>of the coins</b> <b>in a box</b>, <b>which is only</b> <b>5%</b> <b>of her</b> <b>entire</b> <b>collection</b>. <b>What is the total</b> <b>number</b> <b>of coins</b> <b>in Kate&#39;s</b> <b>coin</b> <b>collection</b>? - e-eduanswers.com"
+      }
+    ],
+    [
+      {
+        "query": "In the spinal cord, motor neuron cell bodies are located in Lamina IX",
+        "match_string": "Motor neuron cell bodies are located in lamina IX spinal cord cell bodies located spinal cord",
+        "score": 0.7774952320406867,
+        "score_label": 1.0,
+        "name": "Nerve Monitoring | Neupsy Key",
+        "url": "https://neupsykey.com/nerve-monitoring/",
+        "snippet": "<b>Motor</b> <b>neuron</b> <b>cell</b> <b>bodies</b> <b>are located</b> <b>in lamina</b> <b>IX</b> of the ventral horn of the <b>spinal</b> <b>cord</b> [ 3 ]. Sensory nerve fibers consist of the myelinated Aβ and Aδ and unmyelinated C fibers. These nerve fibers have <b>cell</b> <b>bodies</b> <b>located</b> in the dorsal root ganglia of the <b>spinal</b> <b>cord</b> [ 4 ]."
+      }
+    ]
+  ]
+}
